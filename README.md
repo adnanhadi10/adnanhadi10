@@ -5,7 +5,7 @@
 <div style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px #00aaff, 0 0 50px #0077ff;">
 
   <!-- Replace this with your uploaded GitHub RAW image link -->
-  <img src="YOUR_BANNER_PATH"
+  <img src="digital-padlock-with-hud-virtual-screen-on-blue-background-cyber-security-technology-and-privacy-data-network-protection-concept-vector.jpg"
        width="100%"
        style="display:block;">
 
