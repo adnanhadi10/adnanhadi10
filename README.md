@@ -36,7 +36,7 @@
     text-align:center;
     text-shadow:0 0 15px #00eaff, 0 0 25px #009dff;
   ">
-    Hey there, I'm Hadi! <img src="" width="40">
+    Hey there, I'm Hadi!
   </div>
 </div>
 
