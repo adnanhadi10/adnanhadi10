@@ -1,3 +1,93 @@
+<!-- 🔵 CYBER GRID + CYBER BANNER -->
+<div style="
+  position: relative;
+  width: 100%;
+  padding: 0;
+  background: #000814;
+  overflow: hidden;
+  border-radius: 14px;
+  margin-bottom: 25px;
+  box-shadow: 0 0 25px #009dff55, 0 0 60px #0066ff33 inset;
+">
+
+  <!-- 🔵 Animated Cyber Grid Background -->
+  <svg style="
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    opacity: 0.25;
+    animation: moveGrid 22s linear infinite;
+    z-index: 1;
+  ">
+    <defs>
+      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40"
+              fill="none"
+              stroke="#00aaff22"
+              stroke-width="1"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#grid)" />
+  </svg>
+
+  <!-- Movement Animation -->
+  <style>
+    @keyframes moveGrid {
+      0% { transform: translate(0, 0); }
+      100% { transform: translate(-100px, -100px); }
+    }
+  </style>
+
+  <!-- 🔵 Your Banner Image -->
+  <img src="digital-padlock-with-hud-virtual-screen-on-blue-background-cyber-security-technology-and-privacy-data-network-protection-concept-vector.jpg"
+       width="100%"
+       style="
+         display:block;
+         opacity:0.85;
+         position:relative;
+         z-index:2;
+       " />
+
+  <!-- 🔵 Cyber Gradient Overlay -->
+  <div style="
+    position:absolute;
+    top:0; left:0;
+    width:100%; height:100%;
+    background: linear-gradient(
+      135deg,
+      rgba(0, 0, 40, 0.75),
+      rgba(0, 120, 255, 0.35),
+      rgba(0, 180, 255, 0.15)
+    );
+    mix-blend-mode: overlay;
+    z-index:3;
+  "></div>
+
+  <!-- 🔵 Centered Neon Glow Text -->
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color:white;
+    font-size:42px;
+    font-weight:900;
+    text-align:center;
+    text-shadow:
+      0 0 20px #00eaff,
+      0 0 40px #0077ff,
+      0 0 80px #009dff;
+    z-index:4;
+  ">
+    Hey there, I'm Hadi!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  </div>
+
+</div>
+
+
+
+
 <!-- Neon Line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
