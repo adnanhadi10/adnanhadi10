@@ -1,14 +1,40 @@
+<!-- 🌐 Background Banner with Dark Overlay -->
+<div style="
+  position: relative;
+  background-image: url('5ba0ee78-a87d-4b92-8c4a-8eeb1d0e778e.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 120px 20px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+">
+  
+  <!-- Dark overlay -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.55);
+    z-index: 1;
+  "></div>
 
+  <!-- Banner Content -->
+  <h1 style="position: relative; z-index: 2;">
+    Hey there, I'm Hadi!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  </h1>
+</div>
+
+<br>
+
+<!-- Neon line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/aaqib27/aaqib27/blob/ee3088b23a34a98c2033de1baf3a3a04ba229642/CyberBanner.png" width="100%">
-<div id="hey" align="center">
-  <h1>
-    Hey there
-    I'm Hadi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>  
-</div>
 
 <div id="hey" align="center">
 <p>
@@ -17,10 +43,10 @@ I am a Cybersecurity Analyst with a strong foundation in Network Security, Threa
 With multiple certifications and hands-on projects in Active Directory administration, SIEM implementation, File Integrity Monitoring, and vulnerability assessment, I am committed to staying current with evolving cybersecurity practices. I thrive on problem-solving, continuous learning, and collaborating effectively with teams to enhance security posture.
 
 This portfolio highlights my certifications, projects, and technical expertise, showcasing my journey in Cybersecurity and IT. I am eager to contribute to the field, strengthen security environments, and collaborate on impactful projects.
+</p>
+</div>
 
-</div> 
-
-# <img src="https://i.imgur.com/79AJwzJ.gif" width=40 /> Certifications:
+# <img src="https://i.imgur.com/79AJwzJ.gif" width="40" /> Certifications:
 
 <div>
   <img src="https://i.imgur.com/EjrTnSF.gif" align="right" height="250">
@@ -34,33 +60,31 @@ This portfolio highlights my certifications, projects, and technical expertise, 
     <tbody>
       <tr>
         <td>Introduction to Cybersecurity by Cisco Networking Academy</td>
-        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:e311f40e-7a8c-4ae8-b35e-c8919b8e983f" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
+        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:104b053a-4363-400f-9953-12ad2ee34459" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
       </tr>
       <tr>
         <td>OPSWAT Academy: Introduction to Critical Infrastructure Protection</td>
-        <td><a href="" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
+        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:abdc6b48-df03-4a93-8a60-3382ef8736e6" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
       </tr>
       <tr>
         <td>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</td>
-        <td><a href="" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
+        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:238a5917-fda9-4390-8d16-9f020ad30003" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
       </tr>
       <tr>
         <td>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</td>
-        <td><a href="" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
+        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:2e29a453-dd69-4a92-905b-f1b34d3318aa" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<div>
-  
-# <img src="https://i.imgur.com/6ycuKvr.gif" width=40 /> Cybersecurity Projects:
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL| Azure, Microsoft Sentinel, Log Analytics Workspace, RDP|  <a href="https://github.com/aaqib27/SIEM">View</a>   |
-| Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | Oracle VirtualBox, Windows Server | <a href="https://github.com/aaqib27/ActiveDirectoryLab">View</a> |
-| File Integrity Monitor (FIM) | Hashing Algorithms (SHA-512), PowerShell |N/A | <a href="">View</a> |
-| Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | <a href="">View</a> |
-</div>
+# <img src="https://i.imgur.com/6ycuKvr.gif" width="40" /> Cybersecurity Projects:
+
+| Project | Skills | Tools | Link |
+|--------|--------|-------|------|
+| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Sentinel, Log Analytics, RDP | <a href="">View</a> |
+| Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | VirtualBox, Windows Server | <a href="">View</a> |
+| File Integrity Monitor (FIM) | SHA-512, PowerShell | N/A | <a href="">View</a> |
+| Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, VirtualBox | <a href="">View</a> |
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
