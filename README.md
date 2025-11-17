@@ -36,14 +36,20 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/aaqib27/aaqib27/blob/ee3088b23a34a98c2033de1baf3a3a04ba229642/CyberBanner.png" width="100%">
 
-<div id="hey" align="center">
-<p>
+<h1 align="left">Hey there, I'm Hadi! 👋</h1>
+
+---
+
+<img src="42126ef0-914c-47c9-853d-16485217b490.png" width="100%">
+
+<p align="center">
 I am a Cybersecurity Analyst with a strong foundation in Network Security, Threat Intelligence, and Vulnerability Management. I have a proven ability to analyze complex security issues, develop practical solutions, and communicate findings clearly to both technical and non-technical audiences.
-
+<br><br>
 With multiple certifications and hands-on projects in Active Directory administration, SIEM implementation, File Integrity Monitoring, and vulnerability assessment, I am committed to staying current with evolving cybersecurity practices. I thrive on problem-solving, continuous learning, and collaborating effectively with teams to enhance security posture.
-
+<br><br>
 This portfolio highlights my certifications, projects, and technical expertise, showcasing my journey in Cybersecurity and IT. I am eager to contribute to the field, strengthen security environments, and collaborate on impactful projects.
 </p>
+
 </div>
 
 # <img src="https://i.imgur.com/79AJwzJ.gif" width="40" /> Certifications:
