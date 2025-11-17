@@ -1,24 +1,57 @@
-
+<!-- Neon Line -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/aaqib27/aaqib27/blob/ee3088b23a34a98c2033de1baf3a3a04ba229642/CyberBanner.png" width="100%">
-<div id="hey" align="center">
-  <h1>
-    Hey there
-    I'm Hadi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>  
+
+<!-- Cyber Banner With Gradient Overlay + Glow -->
+<div style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px #00aaff, 0 0 50px #0077ff;">
+
+  <!-- Replace this with your uploaded GitHub RAW image link -->
+  <img src="YOUR_BANNER_PATH"
+       width="100%"
+       style="display:block;">
+
+  <!-- Blue Cyber Gradient Overlay -->
+  <div style="
+    position:absolute;
+    top:0; left:0;
+    width:100%; height:100%;
+    background: linear-gradient(
+      135deg,
+      rgba(0, 0, 50, 0.7),
+      rgba(0, 120, 255, 0.35),
+      rgba(0, 180, 255, 0.15)
+    );
+    mix-blend-mode: overlay;
+  "></div>
+
+  <!-- Centered Glow Text -->
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    color:white;
+    font-size:40px;
+    font-weight:900;
+    text-align:center;
+    text-shadow:0 0 15px #00eaff, 0 0 25px #009dff;
+  ">
+    Hey there, I'm Hadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  </div>
 </div>
+
+<br><br>
 
 <div id="hey" align="center">
 <p>
 I am a Cybersecurity Analyst with a strong foundation in Network Security, Threat Intelligence, and Vulnerability Management. I have a proven ability to analyze complex security issues, develop practical solutions, and communicate findings clearly to both technical and non-technical audiences.
-
+<br><br>
 With multiple certifications and hands-on projects in Active Directory administration, SIEM implementation, File Integrity Monitoring, and vulnerability assessment, I am committed to staying current with evolving cybersecurity practices. I thrive on problem-solving, continuous learning, and collaborating effectively with teams to enhance security posture.
-
+<br><br>
 This portfolio highlights my certifications, projects, and technical expertise, showcasing my journey in Cybersecurity and IT. I am eager to contribute to the field, strengthen security environments, and collaborate on impactful projects.
+</p>
+</div>
 
-</div> 
+---
 
 # <img src="https://i.imgur.com/79AJwzJ.gif" width=40 /> Certifications:
 
@@ -52,15 +85,17 @@ This portfolio highlights my certifications, projects, and technical expertise, 
   </table>
 </div>
 
-<div>
-  
+---
+
 # <img src="https://i.imgur.com/6ycuKvr.gif" width=40 /> Cybersecurity Projects:
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL| Azure, Microsoft Sentinel, Log Analytics Workspace, RDP|  <a href="">View</a>   |
+
+| Project | Skills | Tools | Link |
+|--------|--------|--------|------|
+| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | <a href="">View</a> |
 | Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | Oracle VirtualBox, Windows Server | <a href="">View</a> |
-| File Integrity Monitor (FIM) | Hashing Algorithms (SHA-512), PowerShell |N/A | <a href="">View</a> |
+| File Integrity Monitor (FIM) | Hashing Algorithms (SHA-512), PowerShell | N/A | <a href="">View</a> |
 | Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | <a href="">View</a> |
-</div>
+
+---
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
