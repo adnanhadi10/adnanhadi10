@@ -6,7 +6,7 @@
 <div style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px #00aaff, 0 0 50px #0077ff;">
 
   <!-- Replace this with your uploaded GitHub RAW image link -->
-  <img src="digital-padlock-with-hud-virtual-screen-on-blue-background-cyber-security-technology-and-privacy-data-network-protection-concept-vector.jpg"
+  <img src="Skurio_new_-_1000_x_563.png"
        width="100%"
        style="display:block;">
 
@@ -36,7 +36,7 @@
     text-align:center;
     text-shadow:0 0 15px #00eaff, 0 0 25px #009dff;
   ">
-    Hey there, I'm Hadi! <img src="Skurio_new_-_1000_x_563.png" width="40">
+    Hey there, I'm Hadi! <img src="" width="40">
   </div>
 </div>
 
