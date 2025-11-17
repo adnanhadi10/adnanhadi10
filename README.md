@@ -36,7 +36,7 @@
     text-align:center;
     text-shadow:0 0 15px #00eaff, 0 0 25px #009dff;
   ">
-    Hey there, I'm Hadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    Hey there, I'm Hadi! <img src="Skurio_new_-_1000_x_563.png" width="40">
   </div>
 </div>
 
