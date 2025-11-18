@@ -23,21 +23,13 @@
     );
     mix-blend-mode: overlay;
   "></div>
-
-  <!-- Centered Glow Text -->
-  <div style="
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%, -50%);
-    color:white;
-    font-size:40px;
-    font-weight:900;
-    text-align:center;
-    text-shadow:0 0 15px #00eaff, 0 0 25px #009dff;
-  ">
-    Hey there, I'm Hadi!
-  </div>
+  <div id="hey" align="center">
+  <h1>
+    Hey there
+    I'm Hadi!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+  </h1>
+</div>  
 </div>
 
 <br><br>
