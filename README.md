@@ -87,8 +87,9 @@ This portfolio highlights my certifications, projects, and technical expertise, 
 | Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | <a href="">View</a> |
 | Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | Oracle VirtualBox, Windows Server | <a href="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab">View</a> |
 
-| File Integrity Monitor (FIM) | Hashing Algorithms (SHA-512), PowerShell | N/A | <a href="">View</a> |
-| Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | <a href="">View</a> |
+| File Integrity Monitor (FIM) | Hashing Algorithms (SHA-512), PowerShell | N/A | [View](#) |
+| Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | [View](#) |
+
 
 ---
 
