@@ -24,7 +24,7 @@ Switch ports were configured as access ports and assigned to their respective VL
 
 ## 🌐 Connectivity Testing
 
-![Ping](./Ping.png)
+![Ping](./Pings.png)
 
 Connectivity between devices was verified using ICMP ping tests. 
 Devices within the same VLAN were able to communicate directly, while communication between different VLANs was successfully achieved through inter-VLAN routing on the router. 
