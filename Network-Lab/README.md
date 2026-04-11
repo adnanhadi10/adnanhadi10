@@ -6,7 +6,7 @@ This lab demonstrates the design and implementation of a segmented network using
 ---
 
 ## 🧱 Network Topology
-![Topology](./Topology.png)
+![Topology](./NetworkTopology.png)
 This topology represents a small enterprise network consisting of two switches and one router. End devices are grouped into two departments, HR and Sales, each connected to separate access ports on the switches.
 A trunk link connects the switches to allow VLAN traffic to pass between them, while the router is connected to one switch to perform inter-VLAN routing.
 
