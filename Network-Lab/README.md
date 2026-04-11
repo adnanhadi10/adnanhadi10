@@ -26,6 +26,4 @@ Switch ports were configured as access ports and assigned to their respective VL
 
 ![Ping](./Pings.png)
 
-Connectivity between devices was verified using ICMP ping tests. 
-Devices within the same VLAN were able to communicate directly, while communication between different VLANs was successfully achieved through inter-VLAN routing on the router. 
-Minor packet loss during initial tests was observed due to ARP resolution, after which stable communication was established.
+Connectivity between devices was verified using ICMP ping tests to validate end to end communication across the network. Devices within the same VLAN were able to communicate directly, confirming correct access port configuration and VLAN assignment. Communication between different VLANs was successfully achieved through inter VLAN routing on the router, verifying proper trunk configuration and subinterface routing. Initial packet loss was observed due to ARP resolution, after which consistent and stable communication was established across all devices.
