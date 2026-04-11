@@ -84,7 +84,7 @@ This portfolio highlights my certifications, projects, and technical expertise, 
 
 | Project | Skills | Tools | Link |
 |---------|--------|-------|------|
-| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | [View](#) |
+| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | [View]([#](https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation/tree/main)) |
 | Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | Oracle VirtualBox, Windows Server | [View](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab) |
 | Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | [View](#) |
 | Network Setup and Vlan Routing Lab | VLANs, Inter-VLAN Routing, TCP/IP, Network Troubleshooting | Cisco Packet Tracer | [View](https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab-) |
