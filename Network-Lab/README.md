@@ -1,7 +1,7 @@
 # 🖧 Network Setup and Communication Lab
 
 ## 📌 Overview
-This lab demonstrates VLAN configuration, trunking, and inter-VLAN routing using Cisco Packet Tracer. The network is divided into HR and Sales departments with communication enabled between them.
+This lab demonstrates the design and implementation of a segmented network using VLANs, trunking, and inter VLAN routing in Cisco Packet Tracer. The network was structured to separate HR and Sales departments using VLAN 20 and VLAN 10, reducing broadcast domains and improving traffic management. Trunk links were configured between switches using IEEE 802.1Q encapsulation to carry multiple VLANs across a single interface. Inter VLAN communication was achieved using a router on a stick configuration, where subinterfaces were assigned to each VLAN with appropriate gateway addressing. End to end connectivity was verified through ICMP testing, confirming correct VLAN assignment, trunk configuration, and successful routing between networks.
 
 ---
 
