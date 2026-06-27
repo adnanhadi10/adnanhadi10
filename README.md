@@ -6,9 +6,9 @@
 <div style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px #00aaff, 0 0 50px #0077ff;">
 
   <!-- Replace this with your uploaded GitHub RAW image link -->
-  <img src=<img src="Git banner.png"
-       width="100%"
-       style="display:block;">
+ <img src="Git banner.png"
+     width="100%"
+     style="display:block;">
 
   <!-- Blue Cyber Gradient Overlay -->
   <div style="
