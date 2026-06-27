@@ -218,6 +218,8 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 <br>
 
+
+
 # 📊 Portfolio Snapshot
 
 | Category | Current |
