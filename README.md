@@ -140,55 +140,61 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-# 🏆 Professional Credentials
+## 🏆 Industry Certifications
+
+<p align="center">
+  <a href="YOUR_CISCO_SPECIALIST_LINK">
+    <img src="https://img.shields.io/badge/Cisco-Web%20Content%20Security%20Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  </a>
+
+  <a href="YOUR_AZ900_LINK">
+    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Professional Certificates
 
 <p align="center">
 
 <a href="YOUR_GOOGLE_CYBERSECURITY_LINK">
-<img src="https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
-<a href="YOUR_IBM_LINK">
-<img src="https://img.shields.io/badge/IBM-Cybersecurity_Analyst-1261FE?style=for-the-badge&logo=ibm&logoColor=white">
+<a href="YOUR_IBM_ANALYST_LINK">
+<img src="https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </a>
 
 <a href="YOUR_PALO_ALTO_LINK">
-<img src="https://img.shields.io/badge/Palo_Alto-Cybersecurity_Professional-F04E23?style=for-the-badge">
+<img src="https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Professional-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 </a>
+
+<br><br>
 
 <a href="YOUR_FORTINET_LINK">
-<img src="https://img.shields.io/badge/Fortinet-Enterprise_Firewall_Administrator-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
+<img src="https://img.shields.io/badge/Fortinet-Enterprise%20Firewall%20Administrator-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 </a>
 
-<a href="YOUR_CISCO_SPECIALIST_LINK">
-<img src="https://img.shields.io/badge/Cisco-Web_Content_Security_Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<a href="YOUR_ORACLE_OCI_LINK">
+<img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:238a5917-fda9-4390-8d16-9f020ad30003">
-<img src="https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<a href="YOUR_ORACLE_AI_LINK">
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:2e29a453-dd69-4a92-905b-f1b34d3318aa">
-<img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br><br>
+
+<a href="YOUR_CISCO_INTRO_LINK">
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:104b053a-4363-400f-9953-12ad2ee34459">
-<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-</a>
-
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:abdc6b48-df03-4a93-8a60-3382ef8736e6">
-<img src="https://img.shields.io/badge/OPSWAT-Critical_Infrastructure-0094D9?style=for-the-badge">
+<a href="YOUR_OPSWAT_LINK">
+<img src="https://img.shields.io/badge/OPSWAT-Critical%20Infrastructure-0086D1?style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
-
----
 
 # 📊 Portfolio Snapshot
 
