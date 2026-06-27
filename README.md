@@ -142,73 +142,113 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ## 🏆 Certifications
 
-<details open>
+<details>
 <summary><b>Google Cybersecurity Professional</b></summary>
 
-**Issuer:** Google  
+**Issuer:** Google
+
 **Category:** Professional Certificate
+
+📄 **Certificate:** [View PDF](./certificates/google-cybersecurity-professional.pdf)
 
 </details>
 
-<details open>
+<details>
 <summary><b>IBM Cybersecurity Analyst</b></summary>
 
-**Issuer:** IBM  
+**Issuer:** IBM
+
 **Category:** Professional Certificate
+
+📄 **Certificate:** [View PDF](./certificates/ibm-cybersecurity-analyst.pdf)
 
 </details>
 
-<details open>
+<details>
 <summary><b>Cisco Certified Specialist – Web Content Security</b></summary>
 
-**Issuer:** Cisco  
+**Issuer:** Cisco
+
 **Category:** Industry Certification
 
+📄 **Certificate:** [View PDF](./certificates/cisco-web-content-security-specialist.pdf)
+
 </details>
 
-<details open>
+<details>
 <summary><b>Palo Alto Networks Cybersecurity Professional</b></summary>
 
-**Issuer:** Palo Alto Networks  
+**Issuer:** Palo Alto Networks
+
 **Category:** Professional Certificate
 
+📄 **Certificate:** [View PDF](./certificates/paloalto-cybersecurity-professional.pdf)
+
 </details>
 
-<details open>
+<details>
 <summary><b>Fortinet Enterprise Firewall 7.4 Administrator</b></summary>
 
-**Issuer:** Fortinet  
+**Issuer:** Fortinet
+
 **Category:** Technical Training
 
+📄 **Certificate:** [View PDF](./certificates/fortinet-enterprise-firewall-administrator.pdf)
+
 </details>
 
-<details open>
+<details>
+<summary><b>Security Blue Team – Introduction to Network Analysis</b></summary>
+
+**Issuer:** Security Blue Team
+
+**Category:** Blue Team Training
+
+📄 **Certificate:** [View PDF](./certificates/security-blue-team-network-analysis.pdf)
+
+</details>
+
+<details>
 <summary><b>Oracle Cloud Infrastructure Foundations Associate</b></summary>
 
-**Issuer:** Oracle  
+**Issuer:** Oracle
+
 **Category:** Cloud
 
+📄 **Certificate:** [View PDF](./certificates/oracle-oci-foundations.pdf)
+
 </details>
 
-<details open>
+<details>
 <summary><b>Oracle Cloud Infrastructure AI Foundations Associate</b></summary>
 
-**Issuer:** Oracle  
+**Issuer:** Oracle
+
 **Category:** AI & Cloud
+
+📄 **Certificate:** [View PDF](./certificates/oracle-oci-ai-foundations.pdf)
 
 </details>
 
-<details open>
-<summary><b>Introduction to Cybersecurity</b></summary>
+<details>
+<summary><b>Cisco Introduction to Cybersecurity</b></summary>
 
 **Issuer:** Cisco Networking Academy
 
+**Category:** Foundation
+
+📄 **Certificate:** [View PDF](./certificates/cisco-introduction-cybersecurity.pdf)
+
 </details>
 
-<details open>
+<details>
 <summary><b>Critical Infrastructure Protection</b></summary>
 
 **Issuer:** OPSWAT Academy
+
+**Category:** Foundation
+
+📄 **Certificate:** [View PDF](./certificates/opswat-critical-infrastructure.pdf)
 
 </details>
 
