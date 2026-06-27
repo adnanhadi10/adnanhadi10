@@ -142,75 +142,78 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ## 🏆 Certifications
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary><b>Google Cybersecurity Professional</b></summary>
 
-<h3>Google Cybersecurity Professional</h3>
-<p><strong>Issuer:</strong> Google</p>
-<p><strong>Type:</strong> Professional Certificate</p>
+**Issuer:** Google  
+**Category:** Professional Certificate
 
-</td>
-<td width="50%">
+</details>
 
-<h3>IBM Cybersecurity Analyst</h3>
-<p><strong>Issuer:</strong> IBM</p>
-<p><strong>Type:</strong> Professional Certificate</p>
+<details open>
+<summary><b>IBM Cybersecurity Analyst</b></summary>
 
-</td>
-</tr>
+**Issuer:** IBM  
+**Category:** Professional Certificate
 
-<tr>
-<td width="50%">
+</details>
 
-<h3>Palo Alto Networks Cybersecurity Professional</h3>
-<p><strong>Issuer:</strong> Palo Alto Networks</p>
-<p><strong>Type:</strong> Professional Certificate</p>
+<details open>
+<summary><b>Cisco Certified Specialist – Web Content Security</b></summary>
 
-</td>
-<td width="50%">
+**Issuer:** Cisco  
+**Category:** Industry Certification
 
-<h3>Cisco Certified Specialist – Web Content Security</h3>
-<p><strong>Issuer:</strong> Cisco</p>
-<p><strong>Type:</strong> Industry Certification</p>
+</details>
 
-</td>
-</tr>
+<details open>
+<summary><b>Palo Alto Networks Cybersecurity Professional</b></summary>
 
-<tr>
-<td width="50%">
+**Issuer:** Palo Alto Networks  
+**Category:** Professional Certificate
 
-<h3>Fortinet Enterprise Firewall 7.4 Administrator</h3>
-<p><strong>Issuer:</strong> Fortinet</p>
-<p><strong>Type:</strong> Training Certificate</p>
+</details>
 
-</td>
-<td width="50%">
+<details open>
+<summary><b>Fortinet Enterprise Firewall 7.4 Administrator</b></summary>
 
-<h3>Oracle Cloud Infrastructure Foundations Associate</h3>
-<p><strong>Issuer:</strong> Oracle</p>
-<p><strong>Type:</strong> Cloud Certificate</p>
+**Issuer:** Fortinet  
+**Category:** Technical Training
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%">
+<details open>
+<summary><b>Oracle Cloud Infrastructure Foundations Associate</b></summary>
 
-<h3>Oracle Cloud Infrastructure AI Foundations Associate</h3>
-<p><strong>Issuer:</strong> Oracle</p>
-<p><strong>Type:</strong> AI / Cloud Certificate</p>
+**Issuer:** Oracle  
+**Category:** Cloud
 
-</td>
-<td width="50%">
+</details>
 
-<h3>OPSWAT Critical Infrastructure Protection</h3>
-<p><strong>Issuer:</strong> OPSWAT Academy</p>
-<p><strong>Type:</strong> Critical Infrastructure Training</p>
+<details open>
+<summary><b>Oracle Cloud Infrastructure AI Foundations Associate</b></summary>
 
-</td>
-</tr>
-</table>
+**Issuer:** Oracle  
+**Category:** AI & Cloud
+
+</details>
+
+<details open>
+<summary><b>Introduction to Cybersecurity</b></summary>
+
+**Issuer:** Cisco Networking Academy
+
+</details>
+
+<details open>
+<summary><b>Critical Infrastructure Protection</b></summary>
+
+**Issuer:** OPSWAT Academy
+
+</details>
+
+
+
 # 📊 Portfolio Snapshot
 
 | Category | Current |
