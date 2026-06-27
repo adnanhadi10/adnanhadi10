@@ -56,3 +56,13 @@
 | OPSWAT Academy: Introduction to Critical Infrastructure Protection  | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:abdc6b48-df03-4a93-8a60-3382ef8736e6) |
 | Oracle Cloud Infrastructure 2025 Certified Foundations Associate    | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:238a5917-fda9-4390-8d16-9f020ad30003) |
 | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2e29a453-dd69-4a92-905b-f1b34d3318aa) |
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhadi10&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adnanhadi10&theme=tokyonight&hide_border=true" />
+</p>
