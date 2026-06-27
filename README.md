@@ -145,9 +145,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Google Cybersecurity Professional</strong></summary>
 
-**Issuer:** Google  
-**Category:** Professional Certificate  
-**Issued:** December 2025  
+Professional Certificate • Google • December 2025
 
 📄 **[View Certificate](certificates/google-cybersecurity-professional.pdf)**
 
@@ -156,9 +154,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>IBM Cybersecurity Analyst</strong></summary>
 
-**Issuer:** IBM  
-**Category:** Professional Certificate  
-**Issued:** December 2025  
+Professional Certificate • IBM • December 2025
 
 📄 **[View Certificate](certificates/ibm-cybersecurity-analyst.pdf)**
 
@@ -167,8 +163,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
 
-**Issuer:** Cisco  
-**Category:** Industry Certification  
+Industry Certification • Cisco
 
 📄 **[View Certificate](certificates/cisco-web-content-security-specialist.pdf)**
 
@@ -177,9 +172,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
 
-**Issuer:** Palo Alto Networks  
-**Category:** Professional Certificate  
-**Issued:** December 2025  
+Professional Certificate • Palo Alto Networks • December 2025
 
 📄 **[View Certificate](certificates/paloalto-cybersecurity-professional.pdf)**
 
@@ -188,8 +181,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
 
-**Issuer:** Fortinet  
-**Category:** Technical Training  
+Technical Training • Fortinet
 
 📄 **[View Certificate](certificates/fortinet-enterprise-firewall-administrator.pdf)**
 
@@ -198,8 +190,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
 
-**Issuer:** Security Blue Team  
-**Category:** Blue Team Training  
+Blue Team Training • Security Blue Team
 
 📄 **[View Certificate](certificates/security-blue-team-network-analysis.pdf)**
 
@@ -208,8 +199,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
 
-**Issuer:** Oracle  
-**Category:** Cloud Certificate  
+Cloud Certification • Oracle
 
 📄 **[View Certificate](certificates/oracle-oci-foundations.pdf)**
 
@@ -218,8 +208,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
 
-**Issuer:** Oracle  
-**Category:** AI & Cloud Certificate  
+AI & Cloud Certification • Oracle
 
 📄 **[View Certificate](certificates/oracle-oci-ai-foundations.pdf)**
 
@@ -228,8 +217,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Cisco Introduction to Cybersecurity</strong></summary>
 
-**Issuer:** Cisco Networking Academy  
-**Category:** Foundation Certificate  
+Foundation Certificate • Cisco Networking Academy
 
 📄 **[View Certificate](certificates/cisco-introduction-cybersecurity.pdf)**
 
@@ -238,8 +226,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <details>
 <summary><strong>Critical Infrastructure Protection</strong></summary>
 
-**Issuer:** OPSWAT Academy  
-**Category:** Foundation Certificate  
+Foundation Certificate • OPSWAT Academy
 
 📄 **[View Certificate](certificates/opswat-critical-infrastructure.pdf)**
 
@@ -250,7 +237,6 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 ---
 
 <br>
-
 
 # 📊 Portfolio Snapshot
 
