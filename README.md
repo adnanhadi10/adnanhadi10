@@ -140,102 +140,103 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-## 🏆 Certifications
+## 🎓 Professional Credentials
+
+Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
 
 <details>
 <summary><strong>Google Cybersecurity Professional</strong></summary>
 
-Professional Certificate • Google • December 2025
+*Professional Certificate • Google • December 2025*
 
-📄 **[View Certificate](certificates/google-cybersecurity-professional.pdf)**
+🔗 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
 
 </details>
 
 <details>
 <summary><strong>IBM Cybersecurity Analyst</strong></summary>
 
-Professional Certificate • IBM • December 2025
+*Professional Certificate • IBM • December 2025*
 
-📄 **[View Certificate](certificates/ibm-cybersecurity-analyst.pdf)**
+🔗 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
 
-Industry Certification • Cisco
+*Industry Certification • Cisco*
 
-📄 **[View Certificate](certificates/cisco-web-content-security-specialist.pdf)**
+🔗 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
 
-Professional Certificate • Palo Alto Networks • December 2025
+*Professional Certificate • Palo Alto Networks • December 2025*
 
-📄 **[View Certificate](certificates/paloalto-cybersecurity-professional.pdf)**
+🔗 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
 
-Technical Training • Fortinet
+*Technical Training • Fortinet*
 
-📄 **[View Certificate](certificates/fortinet-enterprise-firewall-administrator.pdf)**
+🔗 **[View Credential](certificates/fortinet-enterprise-firewall-administrator.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
 
-Blue Team Training • Security Blue Team
+*Blue Team Training • Security Blue Team*
 
-📄 **[View Certificate](certificates/security-blue-team-network-analysis.pdf)**
+🔗 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
 
-Cloud Certification • Oracle
+*Cloud Certification • Oracle*
 
-📄 **[View Certificate](certificates/oracle-oci-foundations.pdf)**
+🔗 **[View Credential](certificates/oracle-oci-foundations.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
 
-AI & Cloud Certification • Oracle
+*AI & Cloud Certification • Oracle*
 
-📄 **[View Certificate](certificates/oracle-oci-ai-foundations.pdf)**
+🔗 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Cisco Introduction to Cybersecurity</strong></summary>
 
-Foundation Certificate • Cisco Networking Academy
+*Foundation Certificate • Cisco Networking Academy*
 
-📄 **[View Certificate](certificates/cisco-introduction-cybersecurity.pdf)**
+🔗 **[View Credential](certificates/cisco-introduction-cybersecurity.pdf)**
 
 </details>
 
 <details>
 <summary><strong>Critical Infrastructure Protection</strong></summary>
 
-Foundation Certificate • OPSWAT Academy
+*Foundation Certificate • OPSWAT Academy*
 
-📄 **[View Certificate](certificates/opswat-critical-infrastructure.pdf)**
+🔗 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
 
 </details>
 
 <br>
 
 ---
-
 <br>
 
 # 📊 Portfolio Snapshot
