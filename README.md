@@ -254,6 +254,8 @@ Industry certifications, professional certificates, and technical training that 
 ```text
 ☁️ Microsoft Azure Fundamentals (AZ-900)
 
+☁️ Google cloud
+
 🐳 Docker & Containerization
 
 ⚙️ Jenkins CI/CD Pipelines
@@ -263,6 +265,8 @@ Industry certifications, professional certificates, and technical training that 
 🌍 Terraform Infrastructure as Code
 
 🛡️ DevSecOps
+
+🛡️ Security +
 
 🐧 Advanced Linux Administration
 ```
