@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Git banner.png" width="100%" alt="Hadi Cybersecurity Banner">
+  <img src="Git%20banner.png" alt="Hadi Banner">
 </p>
 
 <h1 align="center">Hi, I'm Hadi 👋</h1>
