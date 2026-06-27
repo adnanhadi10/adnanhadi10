@@ -140,21 +140,9 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-## 🏆 Industry Certifications
+## 🏆 Certifications
 
-<p align="center">
-  <a href="YOUR_CISCO_SPECIALIST_LINK">
-    <img src="https://img.shields.io/badge/Cisco-Web%20Content%20Security%20Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  </a>
-
-  <a href="YOUR_AZ900_LINK">
-    <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📚 Professional Certificates
+### 🛡️ Security
 
 <p align="center">
 
@@ -172,9 +160,21 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 <br><br>
 
+<a href="YOUR_CISCO_SPECIALIST_LINK">
+<img src="https://img.shields.io/badge/Cisco-Web%20Content%20Security%20Specialist-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
 <a href="YOUR_FORTINET_LINK">
 <img src="https://img.shields.io/badge/Fortinet-Enterprise%20Firewall%20Administrator-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
 </a>
+
+</p>
+
+---
+
+### ☁️ Cloud
+
+<p align="center">
 
 <a href="YOUR_ORACLE_OCI_LINK">
 <img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -184,14 +184,26 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 <img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </a>
 
-<br><br>
+<!-- Add this after you earn AZ-900
+<a href="YOUR_AZ900_LINK">
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+-->
+
+</p>
+
+---
+
+### 📚 Foundations
+
+<p align="center">
 
 <a href="YOUR_CISCO_INTRO_LINK">
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
 <a href="YOUR_OPSWAT_LINK">
-<img src="https://img.shields.io/badge/OPSWAT-Critical%20Infrastructure-0086D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OPSWAT-Critical%20Infrastructure-0086D1?style=for-the-badge" />
 </a>
 
 </p>
