@@ -1,94 +1,58 @@
-
-<!-- Neon Line -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- Cyber Banner With Gradient Overlay + Glow -->
-<div style="position: relative; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 0 25px #00aaff, 0 0 50px #0077ff;">
-
-  <!-- Replace this with your uploaded GitHub RAW image link -->
- <img src="Git banner.png"
-     width="100%"
-     style="display:block;">
-
-  <!-- Blue Cyber Gradient Overlay -->
-  <div style="
-    position:absolute;
-    top:0; left:0;
-    width:100%; height:100%;
-    background: linear-gradient(
-      135deg,
-      rgba(0, 0, 50, 0.7),
-      rgba(0, 120, 255, 0.35),
-      rgba(0, 180, 255, 0.15)
-    );
-    mix-blend-mode: overlay;
-  "></div>
-  <div id="hey" align="center">
-  <h1>
-    Hey there
-    I'm Hadi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>  
-</div>
-
-<br><br>
-
-<div id="hey" align="center">
-<p>
-I am a Cybersecurity Analyst with a strong foundation in Network Security, Threat Intelligence, and Vulnerability Management. I have a proven ability to analyze complex security issues, develop practical solutions, and communicate findings clearly to both technical and non-technical audiences.
-<br><br>
-With multiple certifications and hands-on projects in Active Directory administration, SIEM implementation, File Integrity Monitoring, and vulnerability assessment, I am committed to staying current with evolving cybersecurity practices. I thrive on problem-solving, continuous learning, and collaborating effectively with teams to enhance security posture.
-<br><br>
-This portfolio highlights my certifications, projects, and technical expertise, showcasing my journey in Cybersecurity and IT. I am eager to contribute to the field, strengthen security environments, and collaborate on impactful projects.
+<p align="center">
+  <img src="Git banner.png" width="100%" alt="Hadi Cybersecurity Banner">
 </p>
-</div>
+
+<h1 align="center">Hi, I'm Hadi 👋</h1>
+
+<p align="center">
+  Cybersecurity Analyst | Cloud Security | DevSecOps | Threat Detection
+</p>
 
 ---
 
-# <img src="https://i.imgur.com/79AJwzJ.gif" width=40 /> Certifications:
+## 👨‍💻 About Me
 
-<div>
-  <img src="https://i.imgur.com/EjrTnSF.gif" align="right" height="250">
-  <table>
-    <thead>
-      <tr>
-        <th>Certificate</th>
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Introduction to Cybersecurity by Cisco Networking Academy</td>
-        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:104b053a-4363-400f-9953-12ad2ee34459" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
-      </tr>
-      <tr>
-        <td>OPSWAT Academy: Introduction to Critical Infrastructure Protection</td>
-        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:abdc6b48-df03-4a93-8a60-3382ef8736e6" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
-      </tr>
-      <tr>
-        <td>Oracle Cloud Infrastructure 2025 Certified Foundations Associate</td>
-        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:238a5917-fda9-4390-8d16-9f020ad30003" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
-      </tr>
-      <tr>
-        <td>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</td>
-        <td><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:2e29a453-dd69-4a92-905b-f1b34d3318aa" style="background-color:#4CAF50;border:none;color:white;padding:10px 20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:5px;">View</a></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+🎓 Computer Science student building practical cybersecurity and DevOps projects.
+
+🔒 Focused on Security Operations, Cloud Security, Threat Detection, and Infrastructure Automation.
+
+🌱 Currently learning Docker, Jenkins, Kubernetes, Terraform, Linux, and Azure.
 
 ---
 
-# <img src="https://i.imgur.com/6ycuKvr.gif" width=40 /> Cybersecurity Projects:
+## 🛠 Tech Stack
 
-| Project | Skills | Tools | Link |
-|---------|--------|-------|------|
-| Azure Sentinel SIEM Implementation | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | [View](https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation) |
-| Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT | Oracle VirtualBox, Windows Server | [View](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab) |
-| Vulnerability Management Lab | Threat Detection, Vulnerability Remediation | Nessus Essentials, Oracle VirtualBox | [View](https://github.com/adnanhadi10) |
-| Network Setup and Vlan Routing Lab | VLANs, Inter-VLAN Routing, TCP/IP, Network Troubleshooting | Cisco Packet Tracer | [View](https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab-) |
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+</p>
 
 ---
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+## 🚀 Cybersecurity Projects
+
+| Project                                            | Skills                                                     | Tools                                                   | Link                                                                                      |
+| -------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Azure Sentinel SIEM Implementation                 | PowerShell, Azure, Microsoft Sentinel, Log Management, KQL | Azure, Microsoft Sentinel, Log Analytics Workspace, RDP | [View](https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation)                 |
+| Active Directory Administration and Automation Lab | Active Directory, PowerShell, DNS, DHCP, RAS, NAT          | Oracle VirtualBox, Windows Server                       | [View](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab) |
+| Vulnerability Management Lab                       | Threat Detection, Vulnerability Remediation                | Nessus Essentials, Oracle VirtualBox                    | [View](https://github.com/adnanhadi10)                                                    |
+| Network Setup and VLAN Routing Lab                 | VLANs, Inter-VLAN Routing, TCP/IP, Network Troubleshooting | Cisco Packet Tracer                                     | [View](https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab-)                 |
+
+---
+
+## 📜 Certifications
+
+| Certificate                                                         | Link                                                                                     |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Introduction to Cybersecurity by Cisco Networking Academy           | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:104b053a-4363-400f-9953-12ad2ee34459) |
+| OPSWAT Academy: Introduction to Critical Infrastructure Protection  | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:abdc6b48-df03-4a93-8a60-3382ef8736e6) |
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate    | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:238a5917-fda9-4390-8d16-9f020ad30003) |
+| Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | [View](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2e29a453-dd69-4a92-905b-f1b34d3318aa) |
