@@ -237,15 +237,15 @@ Industry certifications, professional certificates, and technical training that 
 ---
 <br>
 
-# 📊 Portfolio Snapshot
+## 📊 Portfolio Snapshot
 
 | Category | Current |
-|-----------|:------:|
-| 🚀 Enterprise Labs | **4** |
-| 🏆 Professional Credentials | **9** |
-| ☁️ Cloud Platforms | Azure, OCI |
+|----------|---------|
+| 🚀 Enterprise Labs | 4 |
+| 🎓 Professional Credentials | 10 |
+| ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
-| 🐳 DevOps Journey | Docker • Jenkins • Kubernetes • Terraform |
+| ⚙️ DevOps Journey | Docker • Jenkins • Kubernetes • Terraform |
 
 ---
 
