@@ -132,6 +132,12 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 | 🖥 Active Directory Lab | Simulated an enterprise Active Directory environment with automation, DNS, DHCP, NAT, and RAS. | Windows Server, PowerShell |
 | 🔍 Vulnerability Management Lab | Performed credentialed vulnerability scans and remediation using Nessus Essentials. | Nessus, Windows |
 | 🌐 Network & VLAN Routing Lab | Designed VLANs and implemented inter-VLAN routing in a simulated enterprise network. | Cisco Packet Tracer |
+### 🐳 Docker Fundamentals Lab
+
+Built a strong foundation in Docker by installing and configuring Docker Engine on Ubuntu (GCP), exploring images, containers, interactive shells, filesystem isolation, persistence, and resource lifecycle management through hands-on experiments. Documented the complete learning journey with professional project documentation and GitHub version control.
+
+**Tech Stack:** Docker • Linux • Bash • Google Cloud Platform • Git • GitHub
+
 
 
 ---
@@ -241,7 +247,7 @@ Industry certifications, professional certificates, and technical training that 
 
 | Category | Current |
 |----------|---------|
-| 🚀 Enterprise Labs | 4 |
+| 🚀 Enterprise Labs | 5 |
 | 🎓 Professional Credentials | 10 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
