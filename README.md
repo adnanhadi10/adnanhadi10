@@ -124,19 +124,18 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-# 🛡️ Security & Cloud Labs
+## 🚀 Cybersecurity, Cloud & DevOps Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🛡 Azure Sentinel SIEM | Built a cloud SIEM to collect, analyze, and visualize security events from a Windows honeypot. | Azure, Sentinel, KQL, PowerShell |
-| 🖥 Active Directory Lab | Simulated an enterprise Active Directory environment with automation, DNS, DHCP, NAT, and RAS. | Windows Server, PowerShell |
-| 🔍 Vulnerability Management Lab | Performed credentialed vulnerability scans and remediation using Nessus Essentials. | Nessus, Windows |
-| 🌐 Network & VLAN Routing Lab | Designed VLANs and implemented inter-VLAN routing in a simulated enterprise network. | Cisco Packet Tracer |
-### 🐳 Docker Fundamentals Lab
+| Project                                    | Description                                                                                                                                                                                                                                                      | Technologies                                 |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 🛡 Azure Sentinel SIEM                     | Built a cloud SIEM to collect, analyze, and visualize security events from a Windows honeypot.                                                                                                                                                                   | Azure, Sentinel, KQL, PowerShell             |
+| 🖥 Active Directory Enterprise Lab         | Simulated an enterprise Active Directory environment with automated user lifecycle management, DNS, DHCP, NAT, RAS, and Group Policy administration.                                                                                                             | Windows Server, Active Directory, PowerShell |
+| 🔍 Enterprise Vulnerability Management Lab | Performed credentialed vulnerability assessments, analyzed security findings, and validated remediation using Nessus Essentials.                                                                                                                                 | Nessus, Windows                              |
+| 🌐 Enterprise Network & VLAN Routing Lab   | Designed an enterprise network with VLAN segmentation, inter-VLAN routing, and secure network communication using Cisco Packet Tracer.                                                                                                                           | Cisco Packet Tracer, Networking              |
+| 🐳 Docker Fundamentals Lab                 | Built a strong foundation in Docker by installing and configuring Docker Engine on Ubuntu (GCP), exploring images, containers, interactive shells, filesystem isolation, persistence, and Docker resource lifecycle management through hands-on experimentation. | Docker, Linux, Bash, GCP, Git, GitHub        |
 
-Built a strong foundation in Docker by installing and configuring Docker Engine on Ubuntu (GCP), exploring images, containers, interactive shells, filesystem isolation, persistence, and resource lifecycle management through hands-on experiments. Documented the complete learning journey with professional project documentation and GitHub version control.
 
-**Tech Stack:** Docker • Linux • Bash • Google Cloud Platform • Git • GitHub
+
 
 
 
