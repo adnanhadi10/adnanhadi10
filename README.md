@@ -132,7 +132,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 | 🖥️ Active Directory Enterprise Lab | Built an enterprise Active Directory lab featuring automated user lifecycle management, DNS, DHCP, NAT, RAS, Group Policy, and PowerShell automation. | Windows Server, Active Directory, PowerShell |
 | 🔍 Enterprise Vulnerability Management Lab | Conducted credentialed vulnerability assessments using Nessus Essentials, analyzed findings, prioritized security risks, and validated remediation efforts. | Nessus Essentials, Windows |
 | 🌐 Enterprise Network & VLAN Routing Lab | Designed an enterprise network featuring VLAN segmentation, inter VLAN routing, and secure network communication using Cisco Packet Tracer. | Cisco Packet Tracer, Networking |
-| 🐳 Docker Flask GCP Deployment | Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application in a container, configured Docker networking through port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. | Docker, Python, Flask, Linux, GCP, Git, GitHub |
+| 🐳 Docker Flask GCP Deployment |Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application inside a container, configured Docker port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. |Docker, Flask, Python, Linux, GCP, Git, GitHub |
 
 
 
