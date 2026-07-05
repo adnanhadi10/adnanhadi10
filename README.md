@@ -132,7 +132,8 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 | 🖥️ Active Directory Enterprise Lab | Built an enterprise Active Directory lab featuring automated user lifecycle management, DNS, DHCP, NAT, RAS, Group Policy, and PowerShell automation. | Windows Server, Active Directory, PowerShell |
 | 🔍 Enterprise Vulnerability Management Lab | Conducted credentialed vulnerability assessments using Nessus Essentials, analyzed findings, prioritized security risks, and validated remediation efforts. | Nessus Essentials, Windows |
 | 🌐 Enterprise Network & VLAN Routing Lab | Designed an enterprise network featuring VLAN segmentation, inter VLAN routing, and secure network communication using Cisco Packet Tracer. | Cisco Packet Tracer, Networking |
-| 🐳 Docker Flask GCP Deployment |Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application inside a container, configured Docker port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. |Docker, Flask, Python, Linux, GCP, Git, GitHub |
+| 🐳 Docker Flask GCP Deployment | Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application inside a container, configured Docker port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. | Docker, Flask, Python, Linux, GCP, Git, GitHub |
+| 🐳 Docker Compose Flask & PostgreSQL | Built a multi container web application using Docker Compose with a custom Flask application and PostgreSQL database. Configured persistent Docker volumes, service discovery through Docker networking, environment variables, health checks, restart policies, and documented the complete deployment and orchestration workflow on GitHub. | Docker, Docker Compose, Flask, PostgreSQL, Python, Linux, GCP, Git, GitHub |
 
 
 
@@ -245,7 +246,7 @@ Industry certifications, professional certificates, and technical training that 
 
 | Category | Current |
 |----------|---------|
-| 🚀 Enterprise Labs | 5 |
+| 🚀 Enterprise Labs | 6 |
 | 🎓 Professional Credentials | 10 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure • Google Cloud Platform |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
