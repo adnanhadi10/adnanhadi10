@@ -133,7 +133,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 | 🔍 Enterprise Vulnerability Management Lab | Conducted credentialed vulnerability assessments using Nessus Essentials, analyzed findings, prioritized security risks, and validated remediation efforts. | Nessus Essentials, Windows |
 | 🌐 Enterprise Network & VLAN Routing Lab | Designed an enterprise network featuring VLAN segmentation, inter VLAN routing, and secure network communication using Cisco Packet Tracer. | Cisco Packet Tracer, Networking |
 | 🐳 Docker: Flask Deployment | Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application inside a container, configured Docker port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. | Docker, Flask, Python, Linux, GCP, Git, GitHub |
-| 🐳 Docker Compose: Flask & PostgreSQL | Built a multi container Flask and PostgreSQL application using Docker Compose. Configured persistent volumes, Docker networking, environment variables, health checks, restart policies, and documented the complete deployment workflow on GitHub. | Docker, Docker Compose, Flask, PostgreSQL, Python, Linux, GCP, Git, GitHub |
+| 🐳 Docker Compose Flask & PostgreSQL CI/CD | Built a multi container Flask and PostgreSQL application with Docker Compose and automated deployment using GitHub Actions. The pipeline builds the Docker image, validates the Compose stack with health checks, and deploys to a Google Cloud VM over SSH using GitHub Secrets. | Docker, Docker Compose, Flask, PostgreSQL, Python, Linux, GitHub Actions, GitHub Secrets, SSH, GCP, Git |
 
 
 
