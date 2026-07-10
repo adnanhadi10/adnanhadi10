@@ -242,8 +242,7 @@ Industry certifications, professional certificates, and technical training that 
 
 *Foundation Certificate • securiti*
 
-📄 [View Certificate](certificates/securiti-ai-security-governance.pdf)
-
+🔗 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
 </details>
 
 <br>
