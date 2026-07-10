@@ -255,7 +255,7 @@ Industry certifications, professional certificates, and technical training that 
 | Category | Current |
 |----------|---------|
 | 🚀 Enterprise Labs | 6 |
-| 🎓 Professional Credentials | 10 |
+| 🎓 Professional Credentials | 11 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure • Google Cloud Platform |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
 | ⚙️ DevOps Journey | Docker • Jenkins • Kubernetes • Terraform |
