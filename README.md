@@ -128,6 +128,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| 🛡️ Home SOC Lab with Wazuh | Designed and deployed a cloud based Security Operations Center using Wazuh to monitor Windows and Linux endpoints, centralize security telemetry, investigate security events, perform threat hunting, validate File Integrity Monitoring, analyze Microsoft Defender EICAR detections, and map detections to the MITRE ATT&CK framework. | Wazuh, SIEM, XDR, Ubuntu Server, Windows 11, Linux, VirtualBox, Google Cloud Platform, Syscheck (FIM), Microsoft Defender, MITRE ATT&CK |
 | 🛡️ Azure Sentinel SIEM | Built a cloud based SIEM using Microsoft Sentinel to collect, analyze, and visualize Windows security events from a honeypot. | Azure, Microsoft Sentinel, KQL, PowerShell |
 | 🖥️ Active Directory Enterprise Lab | Built an enterprise Active Directory lab featuring automated user lifecycle management, DNS, DHCP, NAT, RAS, Group Policy, and PowerShell automation. | Windows Server, Active Directory, PowerShell |
 | 🔍 Enterprise Vulnerability Management Lab | Conducted credentialed vulnerability assessments using Nessus Essentials, analyzed findings, prioritized security risks, and validated remediation efforts. | Nessus Essentials, Windows |
@@ -254,7 +255,7 @@ Industry certifications, professional certificates, and technical training that 
 
 | Category | Current |
 |----------|---------|
-| 🚀 Enterprise Labs | 6 |
+| 🚀 Enterprise Labs | 7 |
 | 🎓 Professional Credentials | 11 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure • Google Cloud Platform |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
