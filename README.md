@@ -42,33 +42,10 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-### ☁️ Cloud, Identity & Security
+<h2>🛠 Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="48" alt="AWS, Azure and Google Cloud" />
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="38" alt="Microsoft Azure"><br>
-      <sub>Microsoft Sentinel</sub>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/microsoftentra/0078D4" height="38" alt="Microsoft Entra"><br>
-      <sub>Active Directory</sub>
-    </td>
-
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="38" alt="Fortinet"><br>
-      <sub>FortiGate</sub>
-    </td>
-  </tr>
-</table>
-
-<p>
-  Sophos • Zscaler • Nessus
+<p align="center">
+  <img src="Tech%20stack.png" alt="Tech Stack" width="100%">
 </p>
 
 ---
