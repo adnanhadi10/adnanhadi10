@@ -42,7 +42,6 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-<h2>🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="Tech%20stack.png" alt="Tech Stack" width="100%">
