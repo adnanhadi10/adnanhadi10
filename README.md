@@ -9,7 +9,7 @@ Cybersecurity • Cloud Security • DevSecOps
 </h3>
 
 <p align="center">
-Building practical cybersecurity and cloud infrastructure projects while continuously expanding my skills through hands-on enterprise labs.
+Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.
 </p>
 
 <p align="center">
@@ -42,86 +42,17 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Technologies
 
-## ☁️ Cloud & Identity
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,jenkins,python,powershell,bash,git,github" />
+</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-
-<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=windows&logoColor=white">
+Microsoft Sentinel • Active Directory • FortiGate • Sophos • Zscaler • Nessus • Cisco • TCP/IP • DNS • DHCP • VLANs
 
 </p>
-
----
-
-## 🛡 Security Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white">
-
-<img src="https://img.shields.io/badge/Sophos-092E6E?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Zscaler-1474C4?style=for-the-badge">
-
-</p>
-
----
-
-## 🐳 DevOps & Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</p>
-
----
-
-## 💻 Programming & Automation
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-</p>
-
----
-
-## 🌐 Networking
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-
-<img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/DHCP-5E5E5E?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/VLAN-6F42C1?style=for-the-badge">
-
-</p>
-
 ---
 
 ## 🚀 Technical Projects
