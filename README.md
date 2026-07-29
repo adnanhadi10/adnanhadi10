@@ -42,17 +42,70 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-## 🛠 Technologies
+## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,jenkins,python,powershell,bash,git,github" />
+### ☁️ Cloud, Identity & Security
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="48" alt="AWS, Azure and GCP" />
 </p>
 
-<p align="center">
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="38" alt="Microsoft Sentinel" /><br>
+      <sub>Sentinel</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoft/5E5E5E/FFFFFF" height="38" alt="Active Directory" /><br>
+      <sub>Active Directory</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="38" alt="Fortinet" /><br>
+      <sub>FortiGate</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/sophos/00539B" height="38" alt="Sophos" /><br>
+      <sub>Sophos</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/zscaler/00A1E0" height="38" alt="Zscaler" /><br>
+      <sub>Zscaler</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/tenable/00A5B5" height="38" alt="Tenable Nessus" /><br>
+      <sub>Nessus</sub>
+    </td>
+  </tr>
+</table>
 
-Microsoft Sentinel • Active Directory • FortiGate • Sophos • Zscaler • Nessus • Cisco • TCP/IP • DNS • DHCP • VLANs
+### ⚙️ DevOps & Infrastructure
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,jenkins" height="48" alt="Docker, Kubernetes, Terraform, Linux and Jenkins" />
 </p>
+
+### 💻 Programming & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powershell,python,bash,git,github" height="48" alt="PowerShell, Python, Bash, Git and GitHub" />
+</p>
+
+### 🌐 Networking
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="38" alt="Cisco" /><br>
+      <sub>Cisco</sub>
+    </td>
+  </tr>
+</table>
+
+<p>
+  TCP/IP • DNS • DHCP • VLANs • Routing • Switching
+</p>
+
 ---
 
 ## 🚀 Technical Projects
