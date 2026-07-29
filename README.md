@@ -135,6 +135,7 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 | 🌐 Enterprise Network and VLAN Routing Lab | Designed an enterprise network featuring VLAN segmentation, inter VLAN routing, and secure network communication using Cisco Packet Tracer. | Cisco Packet Tracer, Networking |
 | 🐳 Docker: Flask Deployment | Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image from a Dockerfile, deployed the application inside a container, configured Docker port mapping, validated browser accessibility, and documented the complete deployment workflow on GitHub. | Docker, Flask, Python, Linux, Google Cloud Platform, Git, GitHub |
 | 🐳 Docker Compose Flask and PostgreSQL CI/CD | Built a multi container Flask and PostgreSQL application with Docker Compose and automated deployment using GitHub Actions. The pipeline builds the Docker image, validates the Compose stack with health checks, and deploys to a Google Cloud VM over SSH using GitHub Secrets. | Docker, Docker Compose, Flask, PostgreSQL, Python, Linux, GitHub Actions, GitHub Secrets, SSH, Google Cloud Platform, Git |
+| ☸️ Kubernetes Fundamentals Lab | Built a production style Kubernetes lab from scratch by deploying a highly available NGINX application with Deployments, ReplicaSets, and ClusterIP Services, configuring NGINX Ingress for HTTP routing, performing rolling updates, validating self healing and horizontal scaling, exporting reusable Kubernetes manifests, and documenting the complete architecture, deployment workflow, and troubleshooting process on GitHub. | Kubernetes, kubeadm, kubectl, NGINX, NGINX Ingress Controller, Calico, YAML, Linux, Ubuntu Server, Google Cloud Platform, Git, GitHub |
 
 
 
@@ -254,7 +255,7 @@ Industry certifications, professional certificates, and technical training that 
 
 | Category | Current |
 |----------|---------|
-| 🚀 Enterprise Labs | 7 |
+| 🚀 Enterprise Labs | 8 |
 | 🎓 Professional Credentials | 11 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure • Google Cloud Platform |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
