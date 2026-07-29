@@ -42,68 +42,33 @@ My goal is to become a Security Engineer capable of designing, securing, automat
 
 ---
 
-## 🛠 Tech Stack
-
 ### ☁️ Cloud, Identity & Security
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="48" alt="AWS, Azure and GCP" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="48" alt="AWS, Azure and Google Cloud" />
 </p>
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="38" alt="Microsoft Sentinel" /><br>
-      <sub>Sentinel</sub>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="38" alt="Microsoft Azure"><br>
+      <sub>Microsoft Sentinel</sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoft/5E5E5E/FFFFFF" height="38" alt="Active Directory" /><br>
+
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/microsoftentra/0078D4" height="38" alt="Microsoft Entra"><br>
       <sub>Active Directory</sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="38" alt="Fortinet" /><br>
+
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/fortinet/EE3124" height="38" alt="Fortinet"><br>
       <sub>FortiGate</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/sophos/00539B" height="38" alt="Sophos" /><br>
-      <sub>Sophos</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/zscaler/00A1E0" height="38" alt="Zscaler" /><br>
-      <sub>Zscaler</sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/tenable/00A5B5" height="38" alt="Tenable Nessus" /><br>
-      <sub>Nessus</sub>
-    </td>
-  </tr>
-</table>
-
-### ⚙️ DevOps & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,linux,jenkins" height="48" alt="Docker, Kubernetes, Terraform, Linux and Jenkins" />
-</p>
-
-### 💻 Programming & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powershell,python,bash,git,github" height="48" alt="PowerShell, Python, Bash, Git and GitHub" />
-</p>
-
-### 🌐 Networking
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="38" alt="Cisco" /><br>
-      <sub>Cisco</sub>
     </td>
   </tr>
 </table>
 
 <p>
-  TCP/IP • DNS • DHCP • VLANs • Routing • Switching
+  Sophos • Zscaler • Nessus
 </p>
 
 ---
