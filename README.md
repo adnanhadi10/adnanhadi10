@@ -57,7 +57,7 @@ Currently developing practical experience through projects involving AWS, Docker
 A collection of hands-on cybersecurity, cloud, networking, and DevOps projects demonstrating practical experience with enterprise infrastructure, automation, cloud platforms, and security engineering.
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/docker-fundamentals-lab">🐳 Docker Fundamentals Lab</a></strong> • Images • Containers • Volumes • Networking</summary>
+<summary><strong>🐳 Docker Fundamentals Lab</strong> • Images • Containers • Volumes • Networking</summary>
 
 ### Overview
 Completed a hands-on Docker fundamentals lab on an Ubuntu virtual machine hosted in Google Cloud Platform, covering images, containers, volumes, networking, and the complete container lifecycle.
@@ -79,7 +79,7 @@ Completed a hands-on Docker fundamentals lab on an Ubuntu virtual machine hosted
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/dockerized-flask-web-application">🐳 Dockerized Flask Web Application</a></strong> • Dockerfile • Port Mapping • Cloud Deployment</summary>
+<summary><strong>🐳 Dockerized Flask Web Application</strong> • Dockerfile • Port Mapping • Cloud Deployment</summary>
 
 ### Overview
 Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image, configured networking, and validated browser accessibility.
@@ -101,14 +101,14 @@ Built and containerized a Python Flask web application using Docker on a Google 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/docker-compose-flask-postgresql">🐳 Docker Compose Flask & PostgreSQL</a></strong> • Multi-Container • Health Checks • Persistent Storage</summary>
+<summary><strong>🐳 Docker Compose Flask & PostgreSQL</strong> • Multi-Container • Health Checks • Persistent Storage</summary>
 
 ### Overview
 Built a multi-container Flask and PostgreSQL application using Docker Compose with persistent storage, health checks, service dependencies, and internal Docker networking.
 
 ### Key Features
 - Multi-container deployment
-- Flask & PostgreSQL integration
+- Flask and PostgreSQL integration
 - Docker Compose orchestration
 - Persistent volumes
 - Health checks
@@ -124,16 +124,16 @@ Built a multi-container Flask and PostgreSQL application using Docker Compose wi
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/kubernetes-fundamentals-lab">☸️ Kubernetes Fundamentals Lab</a></strong> • Deployments • ReplicaSets • Self-Healing</summary>
+<summary><strong>☸️ Kubernetes Fundamentals Lab</strong> • Deployments • ReplicaSets • Self-Healing</summary>
 
 ### Overview
 Deployed and managed containerized applications using Kubernetes, focusing on declarative configuration, scaling, ReplicaSets, Services, self-healing, and rolling updates.
 
 ### Key Features
-- Deployments
+- Kubernetes Deployments
 - ReplicaSets
 - Services
-- Scaling
+- Horizontal scaling
 - Self-healing
 - Rolling updates
 - Desired-state management
@@ -159,54 +159,53 @@ Completed hands-on AWS Cloud Quest labs covering compute, networking, storage, d
 - Application Load Balancer
 - EC2 Auto Scaling
 - Amazon CloudWatch
-- Multi-AZ architecture
+- Multi-Availability Zone architecture
 
 ### Tech Stack
-`AWS` `EC2` `VPC` `EFS` `DynamoDB` `Auto Scaling` `CloudWatch`
+`AWS` `Amazon EC2` `Amazon VPC` `Amazon EFS` `Amazon DynamoDB` `Elastic Load Balancing` `Auto Scaling` `Amazon CloudWatch`
 
 🔗 **Repository:** Coming Soon
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab">🌐 Network & VLAN Routing Home Lab</a></strong> • VLANs • Routing • Enterprise Networking</summary>
+<summary><strong>🌐 Network & VLAN Routing Home Lab</strong> • VLANs • Routing • Enterprise Networking</summary>
 
 ### Overview
 Designed and configured an enterprise-style network using VLAN segmentation, trunk links, inter-VLAN routing, and Cisco networking technologies.
 
 ### Key Features
-- VLANs
-- Trunk ports
+- VLAN creation and segmentation
+- Access and trunk port configuration
 - Inter-VLAN routing
-- Router configuration
-- Switch configuration
-- IP addressing
-- Connectivity testing
+- Router and switch configuration
+- IP addressing and subnetting
+- Network connectivity validation
 
 ### Tech Stack
-`Cisco Packet Tracer` `Cisco IOS` `Routing` `Switching` `TCP/IP` `Subnetting`
+`Cisco Packet Tracer` `Cisco IOS` `VLANs` `Routing` `Switching` `TCP/IP` `Subnetting`
 
 🔗 **[View Repository](https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab)**
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab">🖥️ Active Directory Administration & Automation</a></strong> • AD DS • GPO • PowerShell Automation</summary>
+<summary><strong>🖥️ Active Directory Administration & Automation</strong> • AD DS • GPO • PowerShell Automation</summary>
 
 ### Overview
 Built an enterprise-style Active Directory environment with automated user provisioning, Group Policy, DNS, DHCP, NAT, and PowerShell administration.
 
 ### Key Features
-- Active Directory
-- Organizational Units
-- Group Policy
-- DNS
-- DHCP
-- PowerShell automation
-- Remote access
+- Active Directory Domain Services
+- Automated user provisioning
+- Organizational Unit management
+- Group Policy configuration
+- DNS and DHCP services
+- NAT and remote access configuration
+- PowerShell administration and automation
 
 ### Tech Stack
-`Windows Server` `Active Directory` `PowerShell` `DNS` `DHCP` `Group Policy`
+`Windows Server` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP` `Virtualization`
 
 🔗 **[View Repository](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab)**
 
@@ -219,62 +218,62 @@ Built an enterprise-style Active Directory environment with automated user provi
 Performed enterprise vulnerability assessments using Nessus, prioritized findings based on risk, and validated remediation through follow-up scans.
 
 ### Key Features
-- Credentialed scans
-- Vulnerability assessment
-- CVSS prioritization
+- Credentialed vulnerability scanning
+- Vulnerability identification
+- CVSS-based risk prioritization
 - Remediation planning
-- Validation scans
+- Follow-up validation scans
+- Security findings documentation
 
 ### Tech Stack
-`Nessus Essentials` `Windows` `CVSS` `Risk Assessment`
+`Nessus Essentials` `Windows` `Vulnerability Management` `CVSS` `Risk Assessment`
 
 🔗 **Repository:** Coming Soon
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation">🛡️ Microsoft Sentinel SIEM Simulation</a></strong> • KQL • Log Analytics • Threat Detection</summary>
+<summary><strong>🛡️ Microsoft Sentinel SIEM Simulation</strong> • KQL • Log Analytics • Threat Detection</summary>
 
 ### Overview
 Built a cloud-based SIEM using Microsoft Sentinel to ingest Windows security events, perform KQL investigations, and visualize attack activity.
 
 ### Key Features
-- Windows log ingestion
-- KQL queries
-- Threat investigation
-- Log Analytics
-- Attack visualization
-- Security monitoring
+- Windows security log ingestion
+- Microsoft Sentinel configuration
+- KQL-based log analysis
+- Security event investigation
+- Attack data visualization
+- Threat detection and monitoring
 
 ### Tech Stack
-`Microsoft Azure` `Microsoft Sentinel` `KQL` `PowerShell` `Windows`
+`Microsoft Azure` `Microsoft Sentinel` `KQL` `PowerShell` `Windows` `Log Analytics`
 
 🔗 **[View Repository](https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation)**
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/adnanhadi10/home-soc-lab">🏠 Home SOC Lab with Wazuh</a></strong> • SIEM • Threat Hunting • MITRE ATT&CK</summary>
+<summary><strong>🏠 Home SOC Lab with Wazuh</strong> • SIEM • Threat Hunting • MITRE ATT&CK</summary>
 
 ### Overview
 Designed and deployed a cloud-hosted Security Operations Center using Wazuh to centralize security telemetry, monitor Windows and Linux endpoints, investigate detections, and perform threat hunting.
 
 ### Key Features
-- Wazuh SIEM
-- Windows & Linux monitoring
+- Centralized security monitoring
+- Windows and Linux endpoint onboarding
 - File Integrity Monitoring
-- Microsoft Defender testing
-- Threat hunting
+- Microsoft Defender and EICAR testing
+- Threat hunting and alert investigation
 - MITRE ATT&CK mapping
-- Cloud-hosted infrastructure
+- Cloud-hosted Wazuh infrastructure
 
 ### Tech Stack
-`Wazuh` `SIEM` `Ubuntu Server` `Windows` `Linux` `Google Cloud Platform` `Microsoft Defender` `MITRE ATT&CK`
+`Wazuh` `SIEM` `Ubuntu Server` `Windows` `Linux` `Google Cloud Platform` `VirtualBox` `Microsoft Defender` `MITRE ATT&CK`
 
 🔗 **[View Repository](https://github.com/adnanhadi10/home-soc-lab)**
 
 </details>
-
 
 ---
 
