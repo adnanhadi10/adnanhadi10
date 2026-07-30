@@ -171,11 +171,14 @@ Industry certifications, professional certificates, and technical training that 
 🔗 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
 </details>
 
-*AWS Cloud Quest* • *Cloud Practitioner*
+<details>
+<summary><strong>AWS Cloud Quest • Cloud Practitioner</strong></summary>
+
+*Cloud Quest Badge • Amazon Web Services (AWS)*
 
 🔗 **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-training-badge.png)**
 
-<br>
+</details>
 
 ---
 <br>
