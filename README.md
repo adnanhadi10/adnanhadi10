@@ -171,6 +171,10 @@ Industry certifications, professional certificates, and technical training that 
 🔗 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
 </details>
 
+*AWS Cloud Quest* • *Cloud Practitioner*
+
+🔗 **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-training-badge.png)**
+
 <br>
 
 ---
@@ -181,7 +185,7 @@ Industry certifications, professional certificates, and technical training that 
 | Category | Current |
 |----------|---------|
 | 🚀 Enterprise Labs | 8 |
-| 🎓 Professional Credentials | 11 |
+| 🎓 Professional Credentials | 12 |
 | ☁️ Cloud Platforms | Azure • Oracle Cloud Infrastructure • Google Cloud Platform |
 | 🛡️ Security Focus | SIEM, IAM, Vulnerability Management |
 | ⚙️ DevOps Journey | Docker • Jenkins • Kubernetes • Terraform |
