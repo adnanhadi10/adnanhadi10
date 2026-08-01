@@ -279,17 +279,23 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
+## 🎓 Professional Credentials
+
+Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
+
 <details>
-<summary><strong>AWS Cloud Quest: Cloud Practitioner</strong> <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="30"></summary>
+<summary><strong>Google Cybersecurity Professional Certificate</strong></summary>
 
-*Cloud Quest Badge • Amazon Web Services (AWS)*
+*Professional Certificate • Google*
 
-🖼️ **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-badge.png)**
+📄 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
 
 </details>
 
 <details>
-<summary><strong>IBM Cybersecurity Analyst Professional Certificate</strong> <img src="certificates/ibm-cybersecurity-analyst-badge.png" width="30"></summary>
+<summary><strong>IBM Cybersecurity Analyst Professional Certificate</strong></summary>
+
+<img src="certificates/ibm-cybersecurity-analyst-badge.png" width="120">
 
 *Professional Certificate • IBM / Coursera*
 
@@ -298,25 +304,9 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 </details>
 
 <details>
-<summary><strong>Microsoft AI Skills Fest 2026</strong> <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="30"></summary>
+<summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
 
-*Achievement Badge • Microsoft*
-
-🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
-
-</details>
-
-<details>
-<summary><strong>Securiti AI Security & Governance Certified</strong> <img src="certificates/securiti-ai-security-governance-badge.png" width="30"></summary>
-
-*Foundation Certificate • Securiti*
-
-📄 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
-
-</details>
-
-<details>
-<summary><strong>Cisco Certified Specialist – Web Content Security</strong> <img src="certificates/cisco-web-content-security-badge.png" width="30"></summary>
+<img src="certificates/cisco-web-content-security-badge.png" width="120">
 
 *Professional Certification • Cisco*
 
@@ -325,7 +315,54 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 </details>
 
 <details>
-<summary><strong>Cisco Introduction to Cybersecurity</strong> <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="30"></summary>
+<summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
+
+*Professional Certificate • Palo Alto Networks*
+
+📄 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
+
+*Professional Certification • Fortinet*
+
+📄 **[View Credential](certificates/fortinet-enterprise-firewall-7.4-administrator.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
+
+*Foundation Certificate • Security Blue Team*
+
+📄 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Cisco Introduction to Cybersecurity</strong></summary>
+
+<img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="120">
 
 *Foundation Certificate • Cisco Networking Academy*
 
@@ -334,7 +371,42 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 </details>
 
 <details>
-<summary><strong>Google IT Support Professional Certificate</strong> <img src="certificates/google-it-support-badge.png" width="30"></summary>
+<summary><strong>Critical Infrastructure Protection (ICIP)</strong></summary>
+
+<img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="120">
+
+*Foundation Certificate • OPSWAT Academy*
+
+📄 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Securiti AI Security & Governance Certified</strong></summary>
+
+<img src="certificates/securiti-ai-security-governance-badge.png" width="120">
+
+*Foundation Certificate • Securiti*
+
+📄 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
+
+</details>
+
+<details>
+<summary><strong>AWS Cloud Quest: Cloud Practitioner</strong></summary>
+
+<img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="120">
+
+*Cloud Quest Badge • Amazon Web Services (AWS)*
+
+🖼️ **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-badge.png)**
+
+</details>
+
+<details>
+<summary><strong>Google IT Support Professional Certificate</strong></summary>
+
+<img src="certificates/google-it-support-badge.png" width="120">
 
 *Professional Certificate • Google*
 
@@ -343,11 +415,13 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 </details>
 
 <details>
-<summary><strong>Critical Infrastructure Protection (ICIP)</strong> <img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="30"></summary>
+<summary><strong>Microsoft AI Skills Fest 2026</strong></summary>
 
-*Foundation Certificate • OPSWAT Academy*
+<img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="120">
 
-📄 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
+*Achievement Badge • Microsoft*
+
+🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
 
 </details>
 
@@ -366,34 +440,26 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 # 🎯 Currently Learning
 
-☁️ Microsoft Azure Fundamentals (AZ-900)
+☁️ **AWS Certified AI Practitioner (AIF-C01)** *(Current Priority)*
 
-☁️ Google cloud
+☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
 
-🐳 Docker & Containerization
+🛡️ **CompTIA Security+ (SY0-701)**
 
-⚙️ Jenkins CI/CD Pipelines
+🌐 **Cisco CCNA**
 
-☸️ Kubernetes
+🌍 **Terraform Infrastructure as Code**
 
-🌍 Terraform Infrastructure as Code
+☸️ **Advanced Kubernetes & Production Deployments**
 
-🛡️ DevSecOps
+⚙️ **Jenkins CI/CD Pipelines**
 
-🛡️ Security +
+🛡️ **DevSecOps**
 
-🐧 Advanced Linux Administration
-```
+🐧 **Advanced Linux Administration**
 
 ---
 
-
-
-
 <p align="center">
-
-<i>"Always learning. Always building. Always improving."</i>
-
-</p>
-</a>
+  <em>Always learning. Always building. Always improving.</em>
 </p>
