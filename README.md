@@ -279,39 +279,8 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
-## 🎓 Professional Credentials
-
-Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
-
 <details>
-<summary><img src="certificates/ibm-cybersecurity-analyst-badge.png" width="42"> <strong>IBM Cybersecurity Analyst Professional Certificate</strong></summary>
-
-*Professional Certificate • IBM / Coursera*
-
-📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
-
-</details>
-
-<details>
-<summary><strong>Google Cybersecurity Professional Certificate</strong></summary>
-
-*Professional Certificate • Google*
-
-📄 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
-
-</details>
-
-<details>
-<summary><img src="certificates/google-it-support-badge.png" width="42"> <strong>Google IT Support Professional Certificate</strong></summary>
-
-*Professional Certificate • Google*
-
-📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
-
-</details>
-
-<details>
-<summary><img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="42"> <strong>AWS Cloud Quest: Cloud Practitioner</strong></summary>
+<summary><strong>AWS Cloud Quest: Cloud Practitioner</strong> <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="30"></summary>
 
 *Cloud Quest Badge • Amazon Web Services (AWS)*
 
@@ -320,7 +289,16 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
-<summary><img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="42"> <strong>Microsoft AI Skills Fest 2026</strong></summary>
+<summary><strong>IBM Cybersecurity Analyst Professional Certificate</strong> <img src="certificates/ibm-cybersecurity-analyst-badge.png" width="30"></summary>
+
+*Professional Certificate • IBM / Coursera*
+
+📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Microsoft AI Skills Fest 2026</strong> <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="30"></summary>
 
 *Achievement Badge • Microsoft*
 
@@ -329,7 +307,7 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
-<summary><img src="certificates/securiti-ai-security-governance-badge.png" width="42"> <strong>Securiti AI Security & Governance Certified</strong></summary>
+<summary><strong>Securiti AI Security & Governance Certified</strong> <img src="certificates/securiti-ai-security-governance-badge.png" width="30"></summary>
 
 *Foundation Certificate • Securiti*
 
@@ -338,7 +316,7 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
-<summary><img src="certificates/cisco-web-content-security-badge.png" width="42"> <strong>Cisco Certified Specialist – Web Content Security</strong></summary>
+<summary><strong>Cisco Certified Specialist – Web Content Security</strong> <img src="certificates/cisco-web-content-security-badge.png" width="30"></summary>
 
 *Professional Certification • Cisco*
 
@@ -347,7 +325,7 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
-<summary><img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="42"> <strong>Cisco Introduction to Cybersecurity</strong></summary>
+<summary><strong>Cisco Introduction to Cybersecurity</strong> <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="30"></summary>
 
 *Foundation Certificate • Cisco Networking Academy*
 
@@ -356,52 +334,16 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
-<summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
+<summary><strong>Google IT Support Professional Certificate</strong> <img src="certificates/google-it-support-badge.png" width="30"></summary>
 
-*Professional Certificate • Palo Alto Networks*
+*Professional Certificate • Google*
 
-📄 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
-
-</details>
-
-<details>
-<summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
-
-*Professional Certification • Fortinet*
-
-📄 **[View Credential](certificates/fortinet-enterprise-firewall-7.4-administrator.pdf)**
+📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
 
 </details>
 
 <details>
-<summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
-
-*Foundation Certificate • Security Blue Team*
-
-📄 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
-
-</details>
-
-<details>
-<summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
-
-*Foundation Associate • Oracle*
-
-📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
-
-</details>
-
-<details>
-<summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
-
-*Foundation Associate • Oracle*
-
-📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
-
-</details>
-
-<details>
-<summary><img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="42"> <strong>Critical Infrastructure Protection (ICIP)</strong></summary>
+<summary><strong>Critical Infrastructure Protection (ICIP)</strong> <img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="30"></summary>
 
 *Foundation Certificate • OPSWAT Academy*
 
@@ -409,6 +351,7 @@ Industry certifications, professional certificates, and technical training that 
 
 </details>
 
+---
 
 ## 📊 Portfolio Snapshot
 
@@ -423,7 +366,6 @@ Industry certifications, professional certificates, and technical training that 
 
 # 🎯 Currently Learning
 
-```text
 ☁️ Microsoft Azure Fundamentals (AZ-900)
 
 ☁️ Google cloud
