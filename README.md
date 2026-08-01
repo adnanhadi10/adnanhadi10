@@ -279,28 +279,136 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
-## 🏅 Professional Credentials
+## 🎓 Professional Credentials
 
-Industry certifications, professional certificates, and technical training supporting my cybersecurity, cloud, and DevSecOps journey.
+Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
 
-| Badge | Credential |
-|:---:|---|
-| <img src="certificates/google-it-support-badge.png" width="75"> | **Google IT Support Professional Certificate** |
-| <img src="certificates/ibm-cybersecurity-analyst-badge.png" width="75"> | **IBM Cybersecurity Analyst Professional Certificate** |
-| <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="75"> | **Microsoft AI Skills Fest 2026** |
-| <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="75"> | **AWS Cloud Quest: Cloud Practitioner** |
-| <img src="certificates/securiti-ai-security-governance-badge.png" width="75"> | **Securiti AI Security & Governance** |
-| <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="75"> | **Cisco Introduction to Cybersecurity** |
-| <img src="certificates/cisco-web-content-security-badge.png" width="75"> | **Cisco Certified Specialist – Web Content Security** |
-| <img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="75"> | **OPSWAT Introduction to Critical Infrastructure Protection** |
-| 📄 | **Google Cybersecurity Professional Certificate** |
-| 📄 | **Fortinet Enterprise Firewall 7.4 Administrator** |
-| 📄 | **Security Blue Team – Introduction to Network Analysis** |
-| 📄 | **Palo Alto Networks Cybersecurity Professional** |
-| 📄 | **Oracle Cloud Infrastructure Foundations Associate** |
-| 📄 | **Oracle Cloud Infrastructure AI Foundations Associate** |
----
-<br>
+<details>
+<summary><img src="certificates/ibm-cybersecurity-analyst-badge.png" width="42"> <strong>IBM Cybersecurity Analyst Professional Certificate</strong></summary>
+
+*Professional Certificate • IBM / Coursera*
+
+📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Google Cybersecurity Professional Certificate</strong></summary>
+
+*Professional Certificate • Google*
+
+📄 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
+
+</details>
+
+<details>
+<summary><img src="certificates/google-it-support-badge.png" width="42"> <strong>Google IT Support Professional Certificate</strong></summary>
+
+*Professional Certificate • Google*
+
+📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
+
+</details>
+
+<details>
+<summary><img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="42"> <strong>AWS Cloud Quest: Cloud Practitioner</strong></summary>
+
+*Cloud Quest Badge • Amazon Web Services (AWS)*
+
+🖼️ **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-badge.png)**
+
+</details>
+
+<details>
+<summary><img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="42"> <strong>Microsoft AI Skills Fest 2026</strong></summary>
+
+*Achievement Badge • Microsoft*
+
+🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
+
+</details>
+
+<details>
+<summary><img src="certificates/securiti-ai-security-governance-badge.png" width="42"> <strong>Securiti AI Security & Governance Certified</strong></summary>
+
+*Foundation Certificate • Securiti*
+
+📄 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
+
+</details>
+
+<details>
+<summary><img src="certificates/cisco-web-content-security-badge.png" width="42"> <strong>Cisco Certified Specialist – Web Content Security</strong></summary>
+
+*Professional Certification • Cisco*
+
+📄 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
+
+</details>
+
+<details>
+<summary><img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="42"> <strong>Cisco Introduction to Cybersecurity</strong></summary>
+
+*Foundation Certificate • Cisco Networking Academy*
+
+📄 **[View Credential](certificates/cisco-introduction-cybersecurity.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
+
+*Professional Certificate • Palo Alto Networks*
+
+📄 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
+
+*Professional Certification • Fortinet*
+
+📄 **[View Credential](certificates/fortinet-enterprise-firewall-7.4-administrator.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
+
+*Foundation Certificate • Security Blue Team*
+
+📄 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="42"> <strong>Critical Infrastructure Protection (ICIP)</strong></summary>
+
+*Foundation Certificate • OPSWAT Academy*
+
+📄 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
+
+</details>
+
 
 ## 📊 Portfolio Snapshot
 
