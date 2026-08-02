@@ -279,31 +279,26 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
-## 🎓 Professional Credentials
+<details>
+<summary><strong>Google Cybersecurity Professional</strong></summary>
 
-<p align="center">
-  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" width="85" alt="Google Cybersecurity Professional">
-  <img src="certificates/ibm-cybersecurity-analyst-badge.png" width="85" alt="IBM Cybersecurity Analyst">
-  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" width="85" alt="AWS Cloud Quest">
-  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" width="85" alt="Microsoft AI Skills Fest">
-  <img src="certificates/securiti-ai-security-governance-badge.png" width="85" alt="AI Security & Governance">
-</p>
+<img align="right" src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" width="90">
 
-<p align="center">
-  <img src="certificates/fortinet-enterprise-firewall-7.4-administrator-badge.png" width="85" alt="Fortinet">
-  <img src="certificates/cisco-web-content-security-badge.png" width="85" alt="Cisco Web Security">
-  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" width="85" alt="Cisco Introduction">
-  <img src="certificates/google-it-support-badge.png" width="85" alt="Google IT Support">
-  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" width="85" alt="OPSWAT ICIP">
-</p>
+**Professional Certificate • Google**
 
-<p align="center">
-  <sub><strong>10 Professional Badges • 13 Professional Credentials</strong></sub>
-</p>
+📄 **Credential:** [View Certificate](certificates/google-cybersecurity-professional.pdf)
 
-<p align="center">
-  ⬇️ Expand the sections below to view certificates and credential details.
-</p>
+Skills:
+- Security Operations
+- Incident Response
+- Linux
+- SQL
+- Python
+- SIEM
+- IDS/IPS
+
+</details>
+
 ---
 
 ## 📊 Portfolio Snapshot
