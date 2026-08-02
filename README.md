@@ -7,25 +7,31 @@
 <h3 align="center">
 Cybersecurity • Cloud Security • DevSecOps
 
+Cybersecurity • Cloud Security • DevSecOps
+
+<br>
+
 <p align="center">
-  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="36" alt="Google Cybersecurity Professional">
+  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="34" alt="Google Cybersecurity Professional">
   &nbsp;
-  <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="36" alt="IBM Cybersecurity Analyst">
+  <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="34" alt="IBM Cybersecurity Analyst">
   &nbsp;
-  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="36" alt="AWS Cloud Quest">
+  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="34" alt="AWS Cloud Quest">
   &nbsp;
-  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="36" alt="Microsoft AI Skills Fest">
+  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="34" alt="Microsoft AI Skills Fest">
   &nbsp;
-  <img src="certificates/securiti-ai-security-governance-badge.png" height="36" alt="AI Security and Governance">
+  <img src="certificates/securiti-ai-security-governance-badge.png" height="34" alt="AI Security & Governance">
   &nbsp;
-  <img src="certificates/cisco-web-content-security-badge.png" height="36" alt="Cisco Web Content Security">
+  <img src="certificates/cisco-web-content-security-badge.png" height="34" alt="Cisco Web Content Security">
   &nbsp;
-  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="36" alt="Cisco Introduction to Cybersecurity">
+  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="34" alt="Cisco Introduction to Cybersecurity">
   &nbsp;
-  <img src="certificates/google-it-support-badge.png" height="36" alt="Google IT Support">
+  <img src="certificates/google-it-support-badge.png" height="34" alt="Google IT Support">
   &nbsp;
-  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="36" alt="OPSWAT ICIP">
+  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT Critical Infrastructure Protection">
 </p>
+
+Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.</p>
 </p>
 </h3>
 
