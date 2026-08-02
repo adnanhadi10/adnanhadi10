@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Hadi 👋</h1>
 
 <h3 align="center">
-Cybersecurity • Cloud Security • DevSecOps
-
-Cybersecurity • Cloud Security • DevSecOps
+<p align="center">
+  <strong>Cybersecurity • Cloud Security • DevSecOps</strong>
+</p>
 
 <br>
 
@@ -28,9 +28,13 @@ Cybersecurity • Cloud Security • DevSecOps
   &nbsp;
   <img src="certificates/google-it-support-badge.png" height="34" alt="Google IT Support">
   &nbsp;
-  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT Critical Infrastructure Protection">
+  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT ICIP">
+
 </p>
 
+<p align="center">
+Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.
+</p>
 Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.</p>
 </p>
 </h3>
