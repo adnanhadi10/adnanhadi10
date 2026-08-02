@@ -8,26 +8,24 @@
 Cybersecurity • Cloud Security • DevSecOps
 
 <p align="center">
-  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="42" alt="Google Cybersecurity Professional">
+  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="36" alt="Google Cybersecurity Professional">
   &nbsp;
-  <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="42" alt="IBM Cybersecurity Analyst">
+  <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="36" alt="IBM Cybersecurity Analyst">
   &nbsp;
-  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="42" alt="AWS Cloud Quest">
+  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="36" alt="AWS Cloud Quest">
   &nbsp;
-  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="42" alt="Microsoft AI Skills Fest">
+  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="36" alt="Microsoft AI Skills Fest">
   &nbsp;
-  <img src="certificates/securiti-ai-security-governance-badge.png" height="42" alt="AI Security and Governance">
+  <img src="certificates/securiti-ai-security-governance-badge.png" height="36" alt="AI Security and Governance">
   &nbsp;
-  <img src="certificates/fortinet-enterprise-firewall-7.4-administrator-badge.png" height="42" alt="Fortinet Enterprise Firewall">
+  <img src="certificates/cisco-web-content-security-badge.png" height="36" alt="Cisco Web Content Security">
   &nbsp;
-  <img src="certificates/cisco-web-content-security-badge.png" height="42" alt="Cisco Web Content Security">
+  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="36" alt="Cisco Introduction to Cybersecurity">
   &nbsp;
-  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="42" alt="Cisco Introduction to Cybersecurity">
+  <img src="certificates/google-it-support-badge.png" height="36" alt="Google IT Support">
   &nbsp;
-  <img src="certificates/google-it-support-badge.png" height="42" alt="Google IT Support">
-  &nbsp;
-  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="42" alt="OPSWAT ICIP">
-
+  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="36" alt="OPSWAT ICIP">
+</p>
 </p>
 </h3>
 
