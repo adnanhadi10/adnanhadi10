@@ -6,6 +6,29 @@
 
 <h3 align="center">
 Cybersecurity • Cloud Security • DevSecOps
+
+<p align="center">
+  <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="42" alt="Google Cybersecurity Professional">
+  &nbsp;
+  <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="42" alt="IBM Cybersecurity Analyst">
+  &nbsp;
+  <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="42" alt="AWS Cloud Quest">
+  &nbsp;
+  <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="42" alt="Microsoft AI Skills Fest">
+  &nbsp;
+  <img src="certificates/securiti-ai-security-governance-badge.png" height="42" alt="AI Security and Governance">
+  &nbsp;
+  <img src="certificates/fortinet-enterprise-firewall-7.4-administrator-badge.png" height="42" alt="Fortinet Enterprise Firewall">
+  &nbsp;
+  <img src="certificates/cisco-web-content-security-badge.png" height="42" alt="Cisco Web Content Security">
+  &nbsp;
+  <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="42" alt="Cisco Introduction to Cybersecurity">
+  &nbsp;
+  <img src="certificates/google-it-support-badge.png" height="42" alt="Google IT Support">
+  &nbsp;
+  <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="42" alt="OPSWAT ICIP">
+
+</p>
 </h3>
 
 <p align="center">
@@ -279,25 +302,136 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
+## 🎓 Professional Credentials
+
+Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
+
 <details>
 <summary><strong>Google Cybersecurity Professional</strong></summary>
 
-<img align="right" src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" width="90">
+*Professional Certificate • Google*
 
-**Professional Certificate • Google**
-
-📄 **Credential:** [View Certificate](certificates/google-cybersecurity-professional.pdf)
-
-Skills:
-- Security Operations
-- Incident Response
-- Linux
-- SQL
-- Python
-- SIEM
-- IDS/IPS
+📄 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
 
 </details>
+
+<details>
+<summary><strong>IBM Cybersecurity Analyst</strong></summary>
+
+*Professional Certificate • IBM / Coursera*
+
+📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
+
+*Professional Certification • Cisco*
+
+📄 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
+
+*Professional Certificate • Palo Alto Networks*
+
+📄 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
+
+*Professional Certification • Fortinet*
+
+📄 **[View Credential](certificates/fortinet-enterprise-firewall-7.4-administrator.pdf.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
+
+*Foundation Certificate • Security Blue Team*
+
+📄 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
+
+*Foundation Associate • Oracle*
+
+📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Cisco Introduction to Cybersecurity</strong></summary>
+
+*Foundation Certificate • Cisco Networking Academy*
+
+📄 **[View Credential](certificates/cisco-introduction-cybersecurity.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Critical Infrastructure Protection</strong></summary>
+
+*Foundation Certificate • OPSWAT Academy*
+
+📄 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Securiti AI Security & Governance Certified</strong></summary>
+
+*Foundation Certificate • Securiti*
+
+📄 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
+
+</details>
+
+<details>
+<summary><strong>AWS Cloud Quest: Cloud Practitioner</strong></summary>
+
+*Cloud Quest Badge • Amazon Web Services (AWS)*
+
+🖼️ **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-badge.png)**
+
+</details>
+
+<details>
+<summary><strong>Google IT Support Professional Certificate</strong></summary>
+
+*Professional Certificate • Google*
+
+📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
+
+</details>
+
+<details>
+<summary><strong>Microsoft AI Skills Fest 2026</strong></summary>
+
+*Achievement Badge • Microsoft*
+
+🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
+
+</details>
+
 
 ---
 
