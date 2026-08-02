@@ -31,14 +31,6 @@
   <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT ICIP">
 
 </p>
-
-<p align="center">
-Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.
-</p>
-Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.</p>
-</p>
-</h3>
-
 <p align="center">
 Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.
 </p>
