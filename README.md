@@ -29,8 +29,14 @@
   <img src="certificates/google-it-support-badge.png" height="34" alt="Google IT Support">
   &nbsp;
   <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT ICIP">
-
+  &nbsp;
+  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="34" alt="Oracle Cloud Infrastructure Foundations Associate">
+  &nbsp;
+  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="34" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+  &nbsp;
+  <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="34" alt="Oracle Agentic AI Foundations Associate">
 </p>
+
 <p align="center">
 Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.
 </p>
@@ -67,7 +73,6 @@ My portfolio focuses on designing, securing, automating, and monitoring enterpri
 Currently developing practical experience through projects involving AWS, Docker, Kubernetes, PowerShell, Linux, and enterprise security technologies while preparing for industry certifications and a career in Security Engineering.
 
 ---
-
 
 <p align="center">
   <img src="Tech%20stack.png" alt="Tech Stack" width="100%">
@@ -300,8 +305,6 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
----
-
 ## 🎓 Professional Credentials
 
 Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
@@ -363,18 +366,33 @@ Industry certifications, professional certificates, and technical training that 
 <details>
 <summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
 
-*Foundation Associate • Oracle*
+*Foundations Associate Certification • Oracle*
 
 📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
+
+🖼️ **[View Badge](certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg)**
 
 </details>
 
 <details>
 <summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
 
-*Foundation Associate • Oracle*
+*Foundations Associate Certification • Oracle*
 
 📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
+
+🖼️ **[View Badge](certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg)**
+
+</details>
+
+<details>
+<summary><strong>Oracle Agentic AI Foundations Associate</strong></summary>
+
+*Foundations Associate Certification • Oracle*
+
+📄 **[View Credential](certificates/oracle-agentic-ai-foundations-associate.pdf)**
+
+🖼️ **[View Badge](certificates/oracle-agentic-ai-foundations-associate-badge.jpg)**
 
 </details>
 
@@ -432,7 +450,6 @@ Industry certifications, professional certificates, and technical training that 
 
 </details>
 
-
 ---
 
 ## 📊 Portfolio Snapshot
@@ -440,15 +457,18 @@ Industry certifications, professional certificates, and technical training that 
 | Category | Current |
 |-----------|---------|
 | 🚀 Enterprise Labs | **9** |
-| 🎓 Professional Credentials | **13** |
+| 🎓 Professional Credentials | **14** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
 | ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
+
 ---
 
 # 🎯 Currently Learning
 
 ☁️ **AWS Certified AI Practitioner (AIF-C01)** *(Current Priority)*
+
+🛡️ **Microsoft Azure Security Engineer Associate (AZ-500)**
 
 ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
 
