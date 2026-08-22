@@ -12,6 +12,8 @@
 <br>
 
 <p align="center">
+  <img src="certificates/aws-certified-ai-practitioner.png" height="34" alt="AWS Certified AI Practitioner">
+  &nbsp;
   <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="34" alt="Google Cybersecurity Professional">
   &nbsp;
   <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="34" alt="IBM Cybersecurity Analyst">
@@ -30,11 +32,11 @@
   &nbsp;
   <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT ICIP">
   &nbsp;
-  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="34" alt="Oracle Cloud Infrastructure Foundations Associate">
+  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="27" alt="Oracle Cloud Infrastructure Foundations Associate">
   &nbsp;
-  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="34" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+  <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="27" alt="Oracle Cloud Infrastructure AI Foundations Associate">
   &nbsp;
-  <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="34" alt="Oracle Agentic AI Foundations Associate">
+  <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="27" alt="Oracle Agentic AI Foundations Associate">
 </p>
 
 <p align="center">
@@ -310,6 +312,15 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
 
 <details>
+<summary><strong>AWS Certified AI Practitioner (AIF-C01)</strong></summary>
+
+*Foundational Certification • Amazon Web Services (AWS)*
+
+🖼️ **[View Badge](certificates/aws-certified-ai-practitioner.png)**
+
+</details>
+
+<details>
 <summary><strong>Google Cybersecurity Professional</strong></summary>
 
 *Professional Certificate • Google*
@@ -457,18 +468,18 @@ Industry certifications, professional certificates, and technical training that 
 | Category | Current |
 |-----------|---------|
 | 🚀 Enterprise Labs | **9** |
-| 🎓 Professional Credentials | **14** |
+| 🎓 Professional Credentials | **15** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
 | ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 Learning & Certification Roadmap
 
-☁️ **AWS Certified AI Practitioner (AIF-C01)** *(Current Priority)*
+✅ **AWS Certified AI Practitioner (AIF-C01)** — Completed
 
-🛡️ **Microsoft Azure Security Engineer Associate (AZ-500)**
+🛡️ **Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)** *(Current Certification Priority)*
 
 ☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
 
