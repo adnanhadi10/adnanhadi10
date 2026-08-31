@@ -237,6 +237,45 @@ Deployed and managed containerized applications using Kubernetes, focusing on de
 
 <details>
 
+<summary><strong>☸️ Northstar Production Kubernetes Platform</strong> • Gateway API • Autoscaling • Security • Resilience</summary>
+
+### Overview
+
+Designed and built a production-style Kubernetes platform on a three-node kind cluster, combining application routing, autoscaling, workload security, high availability, and controlled failure testing.
+
+The platform was validated through hands-on resilience and troubleshooting scenarios including Pod failures, readiness failures, node drains, scheduling issues, autoscaling under load, RBAC enforcement, and network isolation.
+
+### Key Features
+
+- Three-node Kubernetes cluster with kind
+- Kubernetes Deployments and self-healing
+- Traefik Gateway API and HTTPRoute routing
+- Internal ClusterIP service architecture
+- Readiness and liveness health probes
+- EndpointSlice readiness validation
+- CPU and memory requests and limits
+- Horizontal Pod Autoscaling with Metrics Server
+- ConfigMap and Kubernetes Secret injection
+- Dedicated ServiceAccount and least-privilege RBAC
+- NetworkPolicy ingress isolation
+- Container capability and privilege hardening
+- PodDisruptionBudget for voluntary disruption protection
+- Multi-node topology spread constraints
+- Graceful Pod termination
+- Controlled failure and resilience testing
+- End-to-end traffic validation
+- Detailed architecture, security, resilience, and troubleshooting documentation
+
+### Tech Stack
+
+`Kubernetes` `Docker` `kind` `kubectl` `Traefik` `Gateway API` `Helm` `Metrics Server` `NGINX` `Linux` `WSL2` `YAML` `Git`
+
+🔗 **[View Repository](https://github.com/adnanhadi10/production-kubernetes-platform)**
+
+</details>
+
+<details>
+
 <summary><strong>☁️ AWS Cloud Quest Labs</strong> • EC2 • EFS • DynamoDB • Auto Scaling</summary>
 
 ### Overview
@@ -585,7 +624,7 @@ Industry certifications, professional certificates, and technical training that 
 
 | Category | Current |
 |-----------|---------|
-| 🚀 Enterprise Labs | **10** |
+| 🚀 Enterprise Labs | **11** |
 | 🎓 Professional Credentials | **15** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
