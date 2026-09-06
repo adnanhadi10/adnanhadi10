@@ -17,67 +17,47 @@
 <p align="center">
 
   <a href="certificates/aws-certified-ai-practitioner.png">
-    <img src="certificates/aws-certified-ai-practitioner.png" height="34" alt="AWS Certified AI Practitioner">
+    <img src="certificates/aws-certified-ai-practitioner.png" height="42" alt="AWS Certified AI Practitioner">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/cisco-web-content-security-specialist.pdf">
-    <img src="certificates/cisco-web-content-security-badge.png" height="34" alt="Cisco Web Content Security">
+    <img src="certificates/cisco-web-content-security-badge.png" height="42" alt="Cisco Web Content Security">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="27" alt="Oracle Cloud Infrastructure Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="34" alt="Oracle Cloud Infrastructure Foundations Associate">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="27" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="34" alt="Oracle Cloud Infrastructure AI Foundations Associate">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/oracle-agentic-ai-foundations-associate-badge.jpg">
-    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="27" alt="Oracle Agentic AI Foundations Associate">
+    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="34" alt="Oracle Agentic AI Foundations Associate">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/google-cybersecurity-professional.pdf">
-    <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="34" alt="Google Cybersecurity Professional">
+    <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="42" alt="Google Cybersecurity Professional">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/ibm-cybersecurity-analyst.pdf">
-    <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="34" alt="IBM Cybersecurity Analyst">
+    <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="42" alt="IBM Cybersecurity Analyst">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/securiti-ai-security-governance.pdf">
-    <img src="certificates/securiti-ai-security-governance-badge.png" height="34" alt="AI Security & Governance">
+    <img src="certificates/securiti-ai-security-governance-badge.png" height="42" alt="AI Security & Governance">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
 
   <a href="certificates/opswat-critical-infrastructure.pdf">
-    <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="34" alt="OPSWAT ICIP">
-  </a>
-  &nbsp;
-
-  <a href="certificates/aws-cloud-quest-cloud-practitioner-badge.png">
-    <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="34" alt="AWS Cloud Quest">
-  </a>
-  &nbsp;
-
-  <a href="certificates/Google%20IT%20Support%20Certificate.pdf">
-    <img src="certificates/google-it-support-badge.png" height="34" alt="Google IT Support">
-  </a>
-  &nbsp;
-
-  <a href="certificates/cisco-introduction-cybersecurity.pdf">
-    <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="34" alt="Cisco Introduction to Cybersecurity">
-  </a>
-  &nbsp;
-
-  <a href="certificates/microsoft-ai-skills-fest-2026-badge.png">
-    <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="34" alt="Microsoft AI Skills Fest">
+    <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="42" alt="OPSWAT ICIP">
   </a>
 
 </p>
@@ -483,6 +463,8 @@ Industry certifications, professional certificates, and technical training that 
 *Professional Certification • Cisco*
 
 📄 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
+
+🖼️ **[View Badge](certificates/cisco-web-content-security-badge.png)**
 
 </details>
 
