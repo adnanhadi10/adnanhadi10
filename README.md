@@ -17,47 +17,47 @@
 <p align="center">
 
   <a href="certificates/aws-certified-ai-practitioner.png">
-    <img src="certificates/aws-certified-ai-practitioner.png" height="50" alt="AWS Certified AI Practitioner">
+    <img src="certificates/aws-certified-ai-practitioner.png" height="60" alt="AWS Certified AI Practitioner">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/cisco-web-content-security-specialist.pdf">
-    <img src="certificates/cisco-web-content-security-badge.png" height="50" alt="Cisco Web Content Security">
+    <img src="certificates/cisco-web-content-security-badge.png" height="60" alt="Cisco Web Content Security">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="42" alt="Oracle Cloud Infrastructure Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="52" alt="Oracle Cloud Infrastructure Foundations Associate">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="42" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="52" alt="Oracle Cloud Infrastructure AI Foundations Associate">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/oracle-agentic-ai-foundations-associate-badge.jpg">
-    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="42" alt="Oracle Agentic AI Foundations Associate">
+    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="52" alt="Oracle Agentic AI Foundations Associate">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/google-cybersecurity-professional.pdf">
-    <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="42" alt="Google Cybersecurity Professional">
+    <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="60" alt="Google Cybersecurity Professional">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/ibm-cybersecurity-analyst.pdf">
-    <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="50" alt="IBM Cybersecurity Analyst">
+    <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="60" alt="IBM Cybersecurity Analyst">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/securiti-ai-security-governance.pdf">
-    <img src="certificates/securiti-ai-security-governance-badge.png" height="50" alt="AI Security & Governance">
+    <img src="certificates/securiti-ai-security-governance-badge.png" height="60" alt="AI Security & Governance">
   </a>
   &nbsp;&nbsp;
 
   <a href="certificates/opswat-critical-infrastructure.pdf">
-    <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="50" alt="OPSWAT ICIP">
+    <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="60" alt="OPSWAT ICIP">
   </a>
 
 </p>
