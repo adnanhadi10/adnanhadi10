@@ -47,27 +47,25 @@
 <p align="center">
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="64" alt="Oracle Cloud Infrastructure Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="70" alt="Oracle Cloud Infrastructure Foundations Associate">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="64" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="70" alt="Oracle Cloud Infrastructure AI Foundations Associate">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="certificates/oracle-agentic-ai-foundations-associate-badge.jpg">
-    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="64" alt="Oracle Agentic AI Foundations Associate">
+    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="70" alt="Oracle Agentic AI Foundations Associate">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="certificates/securiti-ai-security-governance.pdf">
-    <img src="certificates/securiti-ai-security-governance-badge.png" height="64" alt="AI Security and Governance">
+    <img src="certificates/securiti-ai-security-governance-badge.png" height="70" alt="AI Security and Governance">
   </a>
 
 </p>
-
-<br>
 
 <p align="center">
   <strong>Building secure infrastructure through hands-on cybersecurity, cloud, and DevSecOps projects.</strong>
