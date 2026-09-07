@@ -21,6 +21,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="certificates/aws-application-networking-demonstrated.png">
+    <img src="certificates/aws-application-networking-demonstrated.png" height="72" alt="AWS Application Networking Demonstrated">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="certificates/cisco-web-content-security-specialist.pdf">
     <img src="certificates/cisco-web-content-security-badge.png" height="72" alt="Cisco Certified Specialist Web Content Security">
   </a>
@@ -45,16 +50,6 @@
 <!-- Supporting Credentials -->
 
 <p align="center">
-
-  <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="70" alt="Oracle Cloud Infrastructure Foundations Associate">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg">
-    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="70" alt="Oracle Cloud Infrastructure AI Foundations Associate">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="certificates/oracle-agentic-ai-foundations-associate-badge.jpg">
     <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="70" alt="Oracle Agentic AI Foundations Associate">
@@ -463,6 +458,17 @@ Industry certifications, professional certificates, and technical training that 
 </details>
 
 <details>
+<summary><strong>AWS Application Networking Demonstrated</strong></summary>
+
+*Hands-on Microcredential • Amazon Web Services (AWS)*
+
+Demonstrated practical AWS application networking skills through configuring and troubleshooting secure application connectivity, traffic routing, load balancing, private service networking, caching, health checks, and network security controls.
+
+🖼️ **[View Badge](certificates/aws-application-networking-demonstrated.png)**
+
+</details>
+
+<details>
 <summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
 
 *Professional Certification • Cisco*
@@ -470,28 +476,6 @@ Industry certifications, professional certificates, and technical training that 
 📄 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
 
 🖼️ **[View Badge](certificates/cisco-web-content-security-badge.png)**
-
-</details>
-
-<details>
-<summary><strong>Oracle Cloud Infrastructure Foundations Associate</strong></summary>
-
-*Foundations Associate Certification • Oracle*
-
-📄 **[View Credential](certificates/oracle-oci-foundations.pdf)**
-
-🖼️ **[View Badge](certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg)**
-
-</details>
-
-<details>
-<summary><strong>Oracle Cloud Infrastructure AI Foundations Associate</strong></summary>
-
-*Foundations Associate Certification • Oracle*
-
-📄 **[View Credential](certificates/oracle-oci-ai-foundations.pdf)**
-
-🖼️ **[View Badge](certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg)**
 
 </details>
 
@@ -612,7 +596,7 @@ Industry certifications, professional certificates, and technical training that 
 | Category | Current |
 |-----------|---------|
 | 🚀 Enterprise Labs | **11** |
-| 🎓 Professional Credentials | **15** |
+| 🎓 Professional Credentials | **14** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
 | ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
