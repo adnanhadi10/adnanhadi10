@@ -256,52 +256,6 @@ The platform was validated through hands-on resilience and troubleshooting scena
 
 <details>
 
-<summary><strong>☁️ AWS Cloud Quest Labs</strong> • EC2 • EFS • DynamoDB • Auto Scaling</summary>
-
-### Overview
-
-Completed hands-on AWS Cloud Quest labs covering compute, networking, storage, databases, monitoring, Auto Scaling, load balancing, and highly available cloud architecture.
-
-### Key Features
-
-- Amazon EC2
-- Amazon VPC
-- Amazon EFS
-- Amazon DynamoDB
-- Application Load Balancer
-- EC2 Auto Scaling
-- Amazon CloudWatch
-- Multi-Availability Zone architecture
-
-### Tech Stack
-
-`AWS` `Amazon EC2` `Amazon VPC` `Amazon EFS` `Amazon DynamoDB` `Elastic Load Balancing` `Auto Scaling` `Amazon CloudWatch`
-
-🔗 **Repository:** Coming Soon
-
-</details>
-
-<details>
-
-<summary><strong>🌐 Network & VLAN Routing Home Lab</strong> • VLANs • Routing • Enterprise Networking</summary>
-
-### Overview
-
-Designed and configured an enterprise-style network using VLAN segmentation, trunk links, inter-VLAN routing, and Cisco networking technologies.
-
-### Key Features
-
-- VLAN creation and segmentation
-- Access and trunk port configuration
-- Inter-VLAN routing
-- Router and switch configuration
-- IP addressing and subnetting
-- Network connectivity validation
-
-### Tech Stack
-
-<details>
-
 <summary><strong>🌐 AWS Application Networking Lab</strong> • CloudFront • ALB • VPC Lattice • API Gateway</summary>
 
 ### Overview
@@ -334,6 +288,25 @@ The lab focused on diagnosing broken application connectivity and restoring expe
 🔗 **[View Repository](https://github.com/adnanhadi10/aws-application-networking-lab)**
 
 </details>
+
+<details>
+
+<summary><strong>🌐 Network & VLAN Routing Home Lab</strong> • VLANs • Routing • Enterprise Networking</summary>
+
+### Overview
+
+Designed and configured an enterprise-style network using VLAN segmentation, trunk links, inter-VLAN routing, and Cisco networking technologies.
+
+### Key Features
+
+- VLAN creation and segmentation
+- Access and trunk port configuration
+- Inter-VLAN routing
+- Router and switch configuration
+- IP addressing and subnetting
+- Network connectivity validation
+
+### Tech Stack
 
 `Cisco Packet Tracer` `Cisco IOS` `VLANs` `Routing` `Switching` `TCP/IP` `Subnetting`
 
