@@ -76,37 +76,39 @@
   </a>
 </p>
 
----
-
-# 👨‍💻 About Me
+👨‍💻 About Me
 
 Computer Science student building hands-on projects across Cybersecurity, Cloud Security, and DevSecOps, with a strong interest in enterprise infrastructure and security engineering.
 
 My portfolio focuses on designing, securing, automating, and monitoring enterprise-style environments using modern cloud, infrastructure, and security technologies.
 
-### Areas of Interest
+Areas of Interest
 
-- Security Operations (SOC)
-- Cloud Security
-- DevSecOps
-- Active Directory & Identity Management
-- Infrastructure Automation
-- Vulnerability Management
-- Network Security
-- Container Security
-- AI Security
+Security Operations (SOC)
+
+Cloud Security
+
+DevSecOps
+
+Active Directory & Identity Management
+
+Infrastructure Automation
+
+Vulnerability Management
+
+Network Security
+
+Container Security
+
+AI Security
 
 Currently building practical experience through projects involving AWS, Azure, Docker, Kubernetes, PowerShell, Linux, networking, and enterprise security technologies while continuing to develop toward a career in Security Engineering.
-
----
 
 <p align="center">
   <img src="Tech%20stack.png" alt="Tech Stack" width="100%">
 </p>
 
----
-
-# 🚀 Technical Projects
+🚀 Technical Projects
 
 A collection of hands-on cybersecurity, cloud, networking, and DevOps projects demonstrating practical experience with enterprise infrastructure, automation, cloud platforms, and security engineering.
 
@@ -114,25 +116,31 @@ A collection of hands-on cybersecurity, cloud, networking, and DevOps projects d
 
 <summary><strong>🐳 Docker Fundamentals Lab</strong> • Images • Containers • Volumes • Networking</summary>
 
-### Overview
+Overview
 
 Completed a hands-on Docker fundamentals lab on an Ubuntu virtual machine hosted in Google Cloud Platform, covering images, containers, volumes, networking, and the complete container lifecycle.
 
-### Key Features
+Key Features
 
-- Docker installation and configuration
-- Image and container management
-- Interactive containers
-- Persistent volumes
-- Container networking
-- Port mapping
-- Container lifecycle management
+Docker installation and configuration
 
-### Tech Stack
+Image and container management
 
-`Docker` `Linux` `Ubuntu` `Google Cloud Platform` `Bash`
+Interactive containers
 
-🔗 **[View Repository](https://github.com/adnanhadi10/docker-fundamentals-lab)**
+Persistent volumes
+
+Container networking
+
+Port mapping
+
+Container lifecycle management
+
+Tech Stack
+
+Docker Linux Ubuntu Google Cloud Platform Bash
+
+🔗 View Repository
 
 </details>
 
@@ -140,25 +148,31 @@ Completed a hands-on Docker fundamentals lab on an Ubuntu virtual machine hosted
 
 <summary><strong>🐳 Dockerized Flask Web Application</strong> • Dockerfile • Port Mapping • Cloud Deployment</summary>
 
-### Overview
+Overview
 
 Built and containerized a Python Flask web application using Docker on a Google Cloud virtual machine. Created a custom Docker image, configured networking, and validated browser accessibility.
 
-### Key Features
+Key Features
 
-- Flask application deployment
-- Dockerfile creation
-- Custom image build
-- Container deployment
-- Port mapping
-- Browser accessibility testing
-- Linux cloud deployment
+Flask application deployment
 
-### Tech Stack
+Dockerfile creation
 
-`Docker` `Flask` `Python` `Linux` `Ubuntu` `Google Cloud Platform` `Git`
+Custom image build
 
-🔗 **[View Repository](https://github.com/adnanhadi10/dockerized-flask-web-application)**
+Container deployment
+
+Port mapping
+
+Browser accessibility testing
+
+Linux cloud deployment
+
+Tech Stack
+
+Docker Flask Python Linux Ubuntu Google Cloud Platform Git
+
+🔗 View Repository
 
 </details>
 
@@ -166,26 +180,33 @@ Built and containerized a Python Flask web application using Docker on a Google 
 
 <summary><strong>🐳 Docker Compose Flask & PostgreSQL</strong> • Multi-Container • Health Checks • Persistent Storage</summary>
 
-### Overview
+Overview
 
 Built a multi-container Flask and PostgreSQL application using Docker Compose with persistent storage, health checks, service dependencies, and internal Docker networking.
 
-### Key Features
+Key Features
 
-- Multi-container deployment
-- Flask and PostgreSQL integration
-- Docker Compose orchestration
-- Persistent volumes
-- Health checks
-- Environment variables
-- Service discovery
-- Restart policies
+Multi-container deployment
 
-### Tech Stack
+Flask and PostgreSQL integration
 
-`Docker` `Docker Compose` `Flask` `PostgreSQL` `Python` `Linux` `Google Cloud Platform`
+Docker Compose orchestration
 
-🔗 **[View Repository](https://github.com/adnanhadi10/docker-compose-flask-postgresql)**
+Persistent volumes
+
+Health checks
+
+Environment variables
+
+Service discovery
+
+Restart policies
+
+Tech Stack
+
+Docker Docker Compose Flask PostgreSQL Python Linux Google Cloud Platform
+
+🔗 View Repository
 
 </details>
 
@@ -193,25 +214,31 @@ Built a multi-container Flask and PostgreSQL application using Docker Compose wi
 
 <summary><strong>☸️ Kubernetes Fundamentals Lab</strong> • Deployments • ReplicaSets • Self-Healing</summary>
 
-### Overview
+Overview
 
 Deployed and managed containerized applications using Kubernetes, focusing on declarative configuration, scaling, ReplicaSets, Services, self-healing, and rolling updates.
 
-### Key Features
+Key Features
 
-- Kubernetes Deployments
-- ReplicaSets
-- Services
-- Horizontal scaling
-- Self-healing
-- Rolling updates
-- Desired-state management
+Kubernetes Deployments
 
-### Tech Stack
+ReplicaSets
 
-`Kubernetes` `Docker` `kubectl` `Linux` `YAML` `Google Cloud Platform`
+Services
 
-🔗 **[View Repository](https://github.com/adnanhadi10/kubernetes-fundamentals-lab)**
+Horizontal scaling
+
+Self-healing
+
+Rolling updates
+
+Desired-state management
+
+Tech Stack
+
+Kubernetes Docker kubectl Linux YAML Google Cloud Platform
+
+🔗 View Repository
 
 </details>
 
@@ -219,38 +246,55 @@ Deployed and managed containerized applications using Kubernetes, focusing on de
 
 <summary><strong>☸️ Northstar Production Kubernetes Platform</strong> • Gateway API • Autoscaling • Security • Resilience</summary>
 
-### Overview
+Overview
 
 Designed and built a production-style Kubernetes platform on a three-node kind cluster, combining application routing, autoscaling, workload security, high availability, and controlled failure testing.
 
 The platform was validated through hands-on resilience and troubleshooting scenarios including Pod failures, readiness failures, node drains, scheduling issues, autoscaling under load, RBAC enforcement, and network isolation.
 
-### Key Features
+Key Features
 
-- Three-node Kubernetes cluster with kind
-- Kubernetes Deployments and self-healing
-- Traefik Gateway API and HTTPRoute routing
-- Internal ClusterIP service architecture
-- Readiness and liveness health probes
-- EndpointSlice readiness validation
-- CPU and memory requests and limits
-- Horizontal Pod Autoscaling with Metrics Server
-- ConfigMap and Kubernetes Secret injection
-- Dedicated ServiceAccount and least-privilege RBAC
-- NetworkPolicy ingress isolation
-- Container capability and privilege hardening
-- PodDisruptionBudget for voluntary disruption protection
-- Multi-node topology spread constraints
-- Graceful Pod termination
-- Controlled failure and resilience testing
-- End-to-end traffic validation
-- Detailed architecture, security, resilience, and troubleshooting documentation
+Three-node Kubernetes cluster with kind
 
-### Tech Stack
+Kubernetes Deployments and self-healing
 
-`Kubernetes` `Docker` `kind` `kubectl` `Traefik` `Gateway API` `Helm` `Metrics Server` `NGINX` `Linux` `WSL2` `YAML` `Git`
+Traefik Gateway API and HTTPRoute routing
 
-🔗 **[View Repository](https://github.com/adnanhadi10/production-kubernetes-platform)**
+Internal ClusterIP service architecture
+
+Readiness and liveness health probes
+
+EndpointSlice readiness validation
+
+CPU and memory requests and limits
+
+Horizontal Pod Autoscaling with Metrics Server
+
+ConfigMap and Kubernetes Secret injection
+
+Dedicated ServiceAccount and least-privilege RBAC
+
+NetworkPolicy ingress isolation
+
+Container capability and privilege hardening
+
+PodDisruptionBudget for voluntary disruption protection
+
+Multi-node topology spread constraints
+
+Graceful Pod termination
+
+Controlled failure and resilience testing
+
+End-to-end traffic validation
+
+Detailed architecture, security, resilience, and troubleshooting documentation
+
+Tech Stack
+
+Kubernetes Docker kind kubectl Traefik Gateway API Helm Metrics Server NGINX Linux WSL2 YAML Git
+
+🔗 View Repository
 
 </details>
 
@@ -258,26 +302,81 @@ The platform was validated through hands-on resilience and troubleshooting scena
 
 <summary><strong>☁️ AWS Cloud Quest Labs</strong> • EC2 • EFS • DynamoDB • Auto Scaling</summary>
 
-### Overview
+Overview
 
 Completed hands-on AWS Cloud Quest labs covering compute, networking, storage, databases, monitoring, Auto Scaling, load balancing, and highly available cloud architecture.
 
-### Key Features
+Key Features
 
-- Amazon EC2
-- Amazon VPC
-- Amazon EFS
-- Amazon DynamoDB
-- Application Load Balancer
-- EC2 Auto Scaling
-- Amazon CloudWatch
-- Multi-Availability Zone architecture
+Amazon EC2
 
-### Tech Stack
+Amazon VPC
 
-`AWS` `Amazon EC2` `Amazon VPC` `Amazon EFS` `Amazon DynamoDB` `Elastic Load Balancing` `Auto Scaling` `Amazon CloudWatch`
+Amazon EFS
 
-🔗 **Repository:** Coming Soon
+Amazon DynamoDB
+
+Application Load Balancer
+
+EC2 Auto Scaling
+
+Amazon CloudWatch
+
+Multi-Availability Zone architecture
+
+Tech Stack
+
+AWS Amazon EC2 Amazon VPC Amazon EFS Amazon DynamoDB Elastic Load Balancing Auto Scaling Amazon CloudWatch
+
+🔗 Repository: Coming Soon
+
+</details>
+
+<details>
+
+<summary><strong>🌐 AWS Application Networking Lab</strong> • CloudFront • ALB • VPC Lattice • API Gateway</summary>
+
+Overview
+
+Completed a timed AWS application networking challenge in an intentionally misconfigured multi-service environment, configuring and troubleshooting secure traffic flow across edge, load balancing, API, serverless, container, and private service networking layers.
+
+The lab focused on diagnosing broken application connectivity and restoring expected behavior across CloudFront, Application Load Balancer, Amazon ECS, API Gateway, AWS Lambda, Amazon VPC Lattice, AWS WAF, Amazon S3, and CloudWatch.
+
+Key Features
+
+CloudFront distribution configuration and ALB origin integration
+
+Application Load Balancer target health and health check troubleshooting
+
+Security group rules using AWS managed prefix lists
+
+Amazon VPC Lattice service network and target group configuration
+
+Backend ECS task registration using private IP targets
+
+API Gateway POST method with Lambda proxy integration
+
+Lambda VPC networking and VPC Lattice endpoint configuration
+
+API Gateway caching and throttling
+
+ALB access logging to Amazon S3
+
+CloudFront managed caching policy
+
+SPA routing using custom 403 and 404 responses
+
+AWS WAF protection configuration
+
+Detailed troubleshooting documentation and lab evidence
+
+AWS Application Networking Demonstrated microcredential earned
+
+Tech Stack
+
+AWS Amazon VPC Amazon ECS Elastic Load Balancing Amazon CloudFront Amazon VPC Lattice Amazon API Gateway AWS Lambda AWS WAF Amazon S3 Amazon CloudWatch Network Security
+
+🔗 View Repository
 
 </details>
 
@@ -285,24 +384,29 @@ Completed hands-on AWS Cloud Quest labs covering compute, networking, storage, d
 
 <summary><strong>🌐 Network & VLAN Routing Home Lab</strong> • VLANs • Routing • Enterprise Networking</summary>
 
-### Overview
+Overview
 
 Designed and configured an enterprise-style network using VLAN segmentation, trunk links, inter-VLAN routing, and Cisco networking technologies.
 
-### Key Features
+Key Features
 
-- VLAN creation and segmentation
-- Access and trunk port configuration
-- Inter-VLAN routing
-- Router and switch configuration
-- IP addressing and subnetting
-- Network connectivity validation
+VLAN creation and segmentation
 
-### Tech Stack
+Access and trunk port configuration
 
-`Cisco Packet Tracer` `Cisco IOS` `VLANs` `Routing` `Switching` `TCP/IP` `Subnetting`
+Inter-VLAN routing
 
-🔗 **[View Repository](https://github.com/adnanhadi10/Network-and-VLAN-Routing-Home-Lab)**
+Router and switch configuration
+
+IP addressing and subnetting
+
+Network connectivity validation
+
+Tech Stack
+
+Cisco Packet Tracer Cisco IOS VLANs Routing Switching TCP/IP Subnetting
+
+🔗 View Repository
 
 </details>
 
@@ -310,25 +414,31 @@ Designed and configured an enterprise-style network using VLAN segmentation, tru
 
 <summary><strong>🖥️ Active Directory Administration & Automation</strong> • AD DS • GPO • PowerShell Automation</summary>
 
-### Overview
+Overview
 
 Built an enterprise-style Active Directory environment with automated user provisioning, Group Policy, DNS, DHCP, NAT, and PowerShell administration.
 
-### Key Features
+Key Features
 
-- Active Directory Domain Services
-- Automated user provisioning
-- Organizational Unit management
-- Group Policy configuration
-- DNS and DHCP services
-- NAT and remote access configuration
-- PowerShell administration and automation
+Active Directory Domain Services
 
-### Tech Stack
+Automated user provisioning
 
-`Windows Server` `Active Directory` `PowerShell` `Group Policy` `DNS` `DHCP` `Virtualization`
+Organizational Unit management
 
-🔗 **[View Repository](https://github.com/adnanhadi10/Active-Directory-Administration-and-Automation-Lab)**
+Group Policy configuration
+
+DNS and DHCP services
+
+NAT and remote access configuration
+
+PowerShell administration and automation
+
+Tech Stack
+
+Windows Server Active Directory PowerShell Group Policy DNS DHCP Virtualization
+
+🔗 View Repository
 
 </details>
 
@@ -336,33 +446,45 @@ Built an enterprise-style Active Directory environment with automated user provi
 
 <summary><strong>🏢 Enterprise Active Directory Infrastructure Lab</strong> • AD DS • DNS • AGDLP • Infrastructure Troubleshooting</summary>
 
-### Overview
+Overview
 
 Designed an enterprise-style Active Directory infrastructure with a focus on identity architecture, access control, networking, DNS, and structured infrastructure troubleshooting.
 
 The environment progressed through Active Directory configuration and validation before a Windows Server 2025 rebuild encountered an abnormal AD integrated DNS provisioning failure. The failure was investigated extensively and documented rather than presenting the deployment as successfully completed.
 
-### Key Features
+Key Features
 
-- Enterprise Active Directory architecture design
-- Active Directory Domain Services deployment
-- Organizational Unit structure
-- AGDLP group nesting and access control design
-- Static IP and DNS configuration
-- Domain Controller promotion and validation
-- VMware virtual networking and DHCP troubleshooting
-- Active Directory DNS diagnostics using PowerShell and DCDIAG
-- AD integrated DNS partition investigation
-- DNS registration and zone validation
-- Root cause isolation of missing AD DNS zones
-- Detailed troubleshooting and failure documentation
-- Enterprise infrastructure architecture diagram
+Enterprise Active Directory architecture design
 
-### Tech Stack
+Active Directory Domain Services deployment
 
-`Windows Server 2025` `Active Directory` `PowerShell` `DNS` `AGDLP` `VMware` `DCDIAG` `Git`
+Organizational Unit structure
 
-🔗 **[View Repository](https://github.com/adnanhadi10/enterprise-active-directory-lab)**
+AGDLP group nesting and access control design
+
+Static IP and DNS configuration
+
+Domain Controller promotion and validation
+
+VMware virtual networking and DHCP troubleshooting
+
+Active Directory DNS diagnostics using PowerShell and DCDIAG
+
+AD integrated DNS partition investigation
+
+DNS registration and zone validation
+
+Root cause isolation of missing AD DNS zones
+
+Detailed troubleshooting and failure documentation
+
+Enterprise infrastructure architecture diagram
+
+Tech Stack
+
+Windows Server 2025 Active Directory PowerShell DNS AGDLP VMware DCDIAG Git
+
+🔗 View Repository
 
 </details>
 
@@ -370,24 +492,29 @@ The environment progressed through Active Directory configuration and validation
 
 <summary><strong>🔎 Enterprise Vulnerability Management Lab</strong> • Nessus • Risk Assessment • Remediation</summary>
 
-### Overview
+Overview
 
 Performed enterprise vulnerability assessments using Nessus, prioritized findings based on risk, and validated remediation through follow-up scans.
 
-### Key Features
+Key Features
 
-- Credentialed vulnerability scanning
-- Vulnerability identification
-- CVSS-based risk prioritization
-- Remediation planning
-- Follow-up validation scans
-- Security findings documentation
+Credentialed vulnerability scanning
 
-### Tech Stack
+Vulnerability identification
 
-`Nessus Essentials` `Windows` `Vulnerability Management` `CVSS` `Risk Assessment`
+CVSS-based risk prioritization
 
-🔗 **Repository:** Coming Soon
+Remediation planning
+
+Follow-up validation scans
+
+Security findings documentation
+
+Tech Stack
+
+Nessus Essentials Windows Vulnerability Management CVSS Risk Assessment
+
+🔗 Repository: Coming Soon
 
 </details>
 
@@ -395,24 +522,29 @@ Performed enterprise vulnerability assessments using Nessus, prioritized finding
 
 <summary><strong>🛡️ Microsoft Sentinel SIEM Simulation</strong> • KQL • Log Analytics • Threat Detection</summary>
 
-### Overview
+Overview
 
 Built a cloud-based SIEM using Microsoft Sentinel to ingest Windows security events, perform KQL investigations, and visualize attack activity.
 
-### Key Features
+Key Features
 
-- Windows security log ingestion
-- Microsoft Sentinel configuration
-- KQL-based log analysis
-- Security event investigation
-- Attack data visualization
-- Threat detection and monitoring
+Windows security log ingestion
 
-### Tech Stack
+Microsoft Sentinel configuration
 
-`Microsoft Azure` `Microsoft Sentinel` `KQL` `PowerShell` `Windows` `Log Analytics`
+KQL-based log analysis
 
-🔗 **[View Repository](https://github.com/adnanhadi10/Microsoft-Sentinel-SIEM-Simulation)**
+Security event investigation
+
+Attack data visualization
+
+Threat detection and monitoring
+
+Tech Stack
+
+Microsoft Azure Microsoft Sentinel KQL PowerShell Windows Log Analytics
+
+🔗 View Repository
 
 </details>
 
@@ -420,212 +552,226 @@ Built a cloud-based SIEM using Microsoft Sentinel to ingest Windows security eve
 
 <summary><strong>🏠 Home SOC Lab with Wazuh</strong> • SIEM • Threat Hunting • MITRE ATT&CK</summary>
 
-### Overview
+Overview
 
 Designed and deployed a cloud-hosted Security Operations Center using Wazuh to centralize security telemetry, monitor Windows and Linux endpoints, investigate detections, and perform threat hunting.
 
-### Key Features
+Key Features
 
-- Centralized security monitoring
-- Windows and Linux endpoint onboarding
-- File Integrity Monitoring
-- Microsoft Defender and EICAR testing
-- Threat hunting and alert investigation
-- MITRE ATT&CK mapping
-- Cloud-hosted Wazuh infrastructure
+Centralized security monitoring
 
-### Tech Stack
+Windows and Linux endpoint onboarding
 
-`Wazuh` `SIEM` `Ubuntu Server` `Windows` `Linux` `Google Cloud Platform` `VirtualBox` `Microsoft Defender` `MITRE ATT&CK`
+File Integrity Monitoring
 
-🔗 **[View Repository](https://github.com/adnanhadi10/home-soc-lab)**
+Microsoft Defender and EICAR testing
+
+Threat hunting and alert investigation
+
+MITRE ATT&CK mapping
+
+Cloud-hosted Wazuh infrastructure
+
+Tech Stack
+
+Wazuh SIEM Ubuntu Server Windows Linux Google Cloud Platform VirtualBox Microsoft Defender MITRE ATT&CK
+
+🔗 View Repository
 
 </details>
 
----
-
-## 🎓 Professional Credentials
+🎓 Professional Credentials
 
 Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
 
 <details>
 <summary><strong>AWS Certified AI Practitioner (AIF-C01)</strong></summary>
 
-*Foundational Certification • Amazon Web Services (AWS)*
+Foundational Certification • Amazon Web Services (AWS)
 
-🖼️ **[View Badge](certificates/aws-certified-ai-practitioner.png)**
+🖼️ View Badge
 
 </details>
 
 <details>
 <summary><strong>AWS Application Networking Demonstrated</strong></summary>
 
-*Hands-on Microcredential • Amazon Web Services (AWS)*
+Hands-on Microcredential • Amazon Web Services (AWS)
 
 Demonstrated practical AWS application networking skills through configuring and troubleshooting secure application connectivity, traffic routing, load balancing, private service networking, caching, health checks, and network security controls.
 
-🖼️ **[View Badge](certificates/aws-application-networking-demonstrated.png)**
+🖼️ View Badge
 
 </details>
 
 <details>
 <summary><strong>Cisco Certified Specialist – Web Content Security</strong></summary>
 
-*Professional Certification • Cisco*
+Professional Certification • Cisco
 
-📄 **[View Credential](certificates/cisco-web-content-security-specialist.pdf)**
+📄 View Credential
 
-🖼️ **[View Badge](certificates/cisco-web-content-security-badge.png)**
+🖼️ View Badge
 
 </details>
 
 <details>
 <summary><strong>Oracle Agentic AI Foundations Associate</strong></summary>
 
-*Foundations Associate Certification • Oracle*
+Foundations Associate Certification • Oracle
 
-📄 **[View Credential](certificates/oracle-agentic-ai-foundations-associate.pdf)**
+📄 View Credential
 
-🖼️ **[View Badge](certificates/oracle-agentic-ai-foundations-associate-badge.jpg)**
+🖼️ View Badge
 
 </details>
 
 <details>
 <summary><strong>Google Cybersecurity Professional</strong></summary>
 
-*Professional Certificate • Google*
+Professional Certificate • Google
 
-📄 **[View Credential](certificates/google-cybersecurity-professional.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>IBM Cybersecurity Analyst</strong></summary>
 
-*Professional Certificate • IBM / Coursera*
+Professional Certificate • IBM / Coursera
 
-📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Palo Alto Networks Cybersecurity Professional</strong></summary>
 
-*Professional Certificate • Palo Alto Networks*
+Professional Certificate • Palo Alto Networks
 
-📄 **[View Credential](certificates/paloalto-cybersecurity-professional.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Fortinet Enterprise Firewall 7.4 Administrator</strong></summary>
 
-*Professional Certification • Fortinet*
+Professional Certification • Fortinet
 
-📄 **[View Credential](certificates/fortinet-enterprise-firewall-7.4-administrator.pdf.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Security Blue Team – Introduction to Network Analysis</strong></summary>
 
-*Foundation Certificate • Security Blue Team*
+Foundation Certificate • Security Blue Team
 
-📄 **[View Credential](certificates/security-blue-team-network-analysis.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Securiti AI Security & Governance Certified</strong></summary>
 
-*Foundation Certificate • Securiti*
+Foundation Certificate • Securiti
 
-📄 **[View Credential](certificates/securiti-ai-security-governance.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Critical Infrastructure Protection</strong></summary>
 
-*Foundation Certificate • OPSWAT Academy*
+Foundation Certificate • OPSWAT Academy
 
-📄 **[View Credential](certificates/opswat-critical-infrastructure.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>AWS Cloud Quest: Cloud Practitioner</strong></summary>
 
-*Cloud Quest Badge • Amazon Web Services (AWS)*
+Cloud Quest Badge • Amazon Web Services (AWS)
 
-🖼️ **[View Badge](certificates/aws-cloud-quest-cloud-practitioner-badge.png)**
+🖼️ View Badge
 
 </details>
 
 <details>
 <summary><strong>Google IT Support Professional Certificate</strong></summary>
 
-*Professional Certificate • Google*
+Professional Certificate • Google
 
-📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Cisco Introduction to Cybersecurity</strong></summary>
 
-*Foundation Certificate • Cisco Networking Academy*
+Foundation Certificate • Cisco Networking Academy
 
-📄 **[View Credential](certificates/cisco-introduction-cybersecurity.pdf)**
+📄 View Credential
 
 </details>
 
 <details>
 <summary><strong>Microsoft AI Skills Fest 2026</strong></summary>
 
-*Achievement Badge • Microsoft*
+Achievement Badge • Microsoft
 
-🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
+🖼️ View Badge
 
 </details>
 
----
+📊 Portfolio Snapshot
 
-## 📊 Portfolio Snapshot
+Category
 
-| Category | Current |
-|-----------|---------|
-| 🚀 Enterprise Labs | **11** |
-| 🎓 Professional Credentials | **14** |
-| ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
-| 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
-| ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
+Current
 
----
+🚀 Enterprise Labs
 
-# 🎯 Learning & Certification Roadmap
+12
 
-✅ **AWS Certified AI Practitioner (AIF-C01)** — Completed
+🎓 Professional Credentials
 
-🛡️ **Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)** *(Current Certification Priority)*
+14
 
-☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
+☁️ Cloud Platforms
 
-🛡️ **CompTIA Security+ (SY0-701)**
+AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure
 
-🌐 **Cisco CCNA**
+🛡️ Security Focus
 
-🌍 **Terraform Infrastructure as Code**
+SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security
 
-☸️ **Advanced Kubernetes & Production Deployments**
+⚙️ DevOps Journey
 
-⚙️ **Jenkins CI/CD Pipelines**
+Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform
 
-🛡️ **DevSecOps**
+🎯 Learning & Certification Roadmap
 
-🐧 **Advanced Linux Administration**
+✅ AWS Certified AI Practitioner (AIF-C01) — Completed
 
----
+🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) (Current Certification Priority)
+
+☁️ AWS Certified Cloud Practitioner (CLF-C02)
+
+🛡️ CompTIA Security+ (SY0-701)
+
+🌐 Cisco CCNA
+
+🌍 Terraform Infrastructure as Code
+
+☸️ Advanced Kubernetes & Production Deployments
+
+⚙️ Jenkins CI/CD Pipelines
+
+🛡️ DevSecOps
+
+🐧 Advanced Linux Administration
 
 <p align="center">
   <em>Always learning. Always building. Always improving.</em>
