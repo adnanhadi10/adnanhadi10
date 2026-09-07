@@ -51,7 +51,7 @@
 
 <p align="center">
 
-  <a href="certificates/oracle-agentic-ai-foundations-associate-badge.jpg">
+  <a href="certificates/oracle-agentic-ai-foundations-associate.pdf">
     <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="70" alt="Oracle Agentic AI Foundations Associate">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -575,7 +575,9 @@ Demonstrated practical AWS application networking skills through configuring and
 
 *Professional Certificate • Google*
 
-📄 **[View Credential](certificates/Google%20IT%20Support%20Certificate.pdf)**
+📄 **[View Credential](certificates/google-it-support-professinal.pdf)**
+
+🖼️ **[View Badge](certificates/google-it-support-badge.png)**
 
 </details>
 
@@ -586,6 +588,8 @@ Demonstrated practical AWS application networking skills through configuring and
 
 📄 **[View Credential](certificates/cisco-introduction-cybersecurity.pdf)**
 
+🖼️ **[View Badge](certificates/cisco-introduction-to-cybersecurity-badge.png)**
+
 </details>
 
 <details>
@@ -594,6 +598,119 @@ Demonstrated practical AWS application networking skills through configuring and
 *Achievement Badge • Microsoft*
 
 🖼️ **[View Badge](certificates/microsoft-ai-skills-fest-2026-badge.png)**
+
+</details>
+
+---
+
+## 🏅 Badge & Learning Archive
+
+A visual archive of certifications, microcredentials, course achievements, and learning badges earned while developing skills across cybersecurity, cloud, networking, infrastructure, and AI.
+
+<details>
+<summary><strong>View Badge Collection</strong></summary>
+
+<br>
+
+### ☁️ AWS
+
+<p align="center">
+
+  <a href="certificates/aws-certified-ai-practitioner.png">
+    <img src="certificates/aws-certified-ai-practitioner.png" height="85" alt="AWS Certified AI Practitioner">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/aws-application-networking-demonstrated.png">
+    <img src="certificates/aws-application-networking-demonstrated.png" height="85" alt="AWS Application Networking Demonstrated">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/aws-cloud-quest-cloud-practitioner-badge.png">
+    <img src="certificates/aws-cloud-quest-cloud-practitioner-badge.png" height="85" alt="AWS Cloud Quest Cloud Practitioner">
+  </a>
+
+</p>
+
+### 🛡️ Cisco & Network Security
+
+<p align="center">
+
+  <a href="certificates/cisco-web-content-security-specialist.pdf">
+    <img src="certificates/cisco-web-content-security-badge.png" height="85" alt="Cisco Certified Specialist Web Content Security">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/cisco-introduction-cybersecurity.pdf">
+    <img src="certificates/cisco-introduction-to-cybersecurity-badge.png" height="85" alt="Cisco Introduction to Cybersecurity">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/fortinet-enterprise-firewall-7.4-administrator.pdf.pdf">
+    <img src="certificates/fortinet-enterprise-firewall-7.4%20administrator-badge.png" height="85" alt="Fortinet Enterprise Firewall 7.4 Administrator">
+  </a>
+
+</p>
+
+### 🔐 Cybersecurity
+
+<p align="center">
+
+  <a href="certificates/google-cybersecurity-professional.pdf">
+    <img src="certificates/google-cybersecurity-professional-certificate-v-2-badge.png" height="85" alt="Google Cybersecurity Professional">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/ibm-cybersecurity-analyst.pdf">
+    <img src="certificates/ibm-cybersecurity-analyst-badge.png" height="85" alt="IBM Cybersecurity Analyst">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/opswat-critical-infrastructure.pdf">
+    <img src="certificates/opswat-critical-infrastructure-protection-badge.png" height="85" alt="OPSWAT Critical Infrastructure Protection">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/securiti-ai-security-governance.pdf">
+    <img src="certificates/securiti-ai-security-governance-badge.png" height="85" alt="Securiti AI Security and Governance">
+  </a>
+
+</p>
+
+### 🤖 Oracle Cloud & AI
+
+<p align="center">
+
+  <a href="certificates/oracle-agentic-ai-foundations-associate.pdf">
+    <img src="certificates/oracle-agentic-ai-foundations-associate-badge.jpg" height="85" alt="Oracle Agentic AI Foundations Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/oracle-oci-foundations.pdf">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge.jpeg" height="85" alt="Oracle Cloud Infrastructure Foundations Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/oracle-oci-ai-foundations.pdf">
+    <img src="certificates/oracle-cloud-infrastructure-2025-certified-foundations-associate-badge%20(2).jpeg" height="85" alt="Oracle Cloud Infrastructure AI Foundations Associate">
+  </a>
+
+</p>
+
+### 💻 Google & Microsoft Learning
+
+<p align="center">
+
+  <a href="certificates/google-it-support-professinal.pdf">
+    <img src="certificates/google-it-support-badge.png" height="85" alt="Google IT Support Professional">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/microsoft-ai-skills-fest-2026-badge.png">
+    <img src="certificates/microsoft-ai-skills-fest-2026-badge.png" height="85" alt="Microsoft AI Skills Fest 2026">
+  </a>
+
+</p>
 
 </details>
 
