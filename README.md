@@ -452,6 +452,24 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
+## 🔐 Current Security Learning
+
+### Microsoft SC-500 • Cloud & AI Security Engineering
+
+Currently building hands-on Azure security experience alongside SC-500 certification study, turning core identity, access, and cloud security concepts into documented practical labs.
+
+**Current lab work:**
+- User-assigned managed identities and workload authentication
+- OAuth bearer token flows for Azure services
+- Azure Key Vault secret management
+- Authentication vs authorization testing
+- Least-privilege access design
+- Azure management plane vs data plane security
+- REST API based Azure resource configuration and validation
+
+🔗 **[View SC-500 Azure Security Labs](https://github.com/adnanhadi10/sc500-azure-security-labs)**
+
+
 ## 🎓 Professional Credentials
 
 Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
@@ -720,7 +738,7 @@ A visual archive of certifications, microcredentials, course achievements, and l
 
 | Category | Current |
 |-----------|---------|
-| 🚀 Enterprise Labs | **11** |
+| 🚀 Enterprise Labs | **12** |
 | 🎓 Professional Credentials | **14** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
