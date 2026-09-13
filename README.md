@@ -452,20 +452,22 @@ Designed and deployed a cloud-hosted Security Operations Center using Wazuh to c
 
 ---
 
-## 🔐 Current Security Learning
+## 🔐 Azure Security Labs
+
+Hands-on Azure security labs focused on identity, workload authentication, secret management, least privilege, and practical cloud security controls.
 
 ### Microsoft SC-500 • Cloud & AI Security Engineering
 
-Currently building hands-on Azure security experience alongside SC-500 certification study, turning core identity, access, and cloud security concepts into documented practical labs.
+Building and documenting practical Azure security scenarios alongside SC-500 preparation.
 
-**Current lab work:**
+**Implemented so far:**
 - User-assigned managed identities and workload authentication
 - OAuth bearer token flows for Azure services
 - Azure Key Vault secret management
 - Authentication vs authorization testing
 - Least-privilege access design
 - Azure management plane vs data plane security
-- REST API based Azure resource configuration and validation
+- REST API based resource configuration and validation
 
 🔗 **[View SC-500 Azure Security Labs](https://github.com/adnanhadi10/sc500-azure-security-labs)**
 
@@ -746,27 +748,14 @@ A visual archive of certifications, microcredentials, course achievements, and l
 
 ---
 
-# 🎯 Learning & Certification Roadmap
+# 🧭 Certification & Engineering Roadmap
 
-✅ **AWS Certified AI Practitioner (AIF-C01)** — Completed
-
-🛡️ **Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)** *(Current Certification Priority)*
-
-☁️ **AWS Certified Cloud Practitioner (CLF-C02)**
-
-🛡️ **CompTIA Security+ (SY0-701)**
-
-🌐 **Cisco CCNA**
-
-🌍 **Terraform Infrastructure as Code**
-
-☸️ **Advanced Kubernetes & Production Deployments**
-
-⚙️ **Jenkins CI/CD Pipelines**
-
-🛡️ **DevSecOps**
-
-🐧 **Advanced Linux Administration**
+- 🛡️ **Microsoft SC-500** — Current priority
+- 🌐 **Cisco CCNA** — Active background track
+- ☁️ **AWS Cloud Practitioner** — Planned
+- 🐧 **Advanced Linux Administration** — Active
+- 🏗️ **Terraform Infrastructure as Code** — Upcoming
+- 🔐 **DevSecOps** — Upcoming
 
 ---
 
