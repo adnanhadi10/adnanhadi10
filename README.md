@@ -26,6 +26,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="certificates/fortinet-nse-1-certified-in-cybersecurity.png">
+    <img src="certificates/fortinet-nse-1-certified-in-cybersecurity.png" height="72" alt="Fortinet Cybersecurity and Cloud Fundamentals">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="certificates/cisco-web-content-security-specialist.pdf">
     <img src="certificates/cisco-web-content-security-badge.png" height="72" alt="Cisco Certified Specialist Web Content Security">
   </a>
@@ -473,7 +478,6 @@ Building and documenting practical Azure security scenarios alongside SC-500 pre
 
 ---
 
-
 ## 🎓 Professional Credentials
 
 Industry certifications, professional certificates, and technical training that support my cybersecurity, cloud, and DevSecOps journey.
@@ -495,6 +499,17 @@ Industry certifications, professional certificates, and technical training that 
 Demonstrated practical AWS application networking skills through configuring and troubleshooting secure application connectivity, traffic routing, load balancing, private service networking, caching, health checks, and network security controls.
 
 🖼️ **[View Badge](certificates/aws-application-networking-demonstrated.png)**
+
+</details>
+
+<details>
+<summary><strong>Fortinet Cybersecurity and Cloud Fundamentals 1.0</strong></summary>
+
+*Cybersecurity & Cloud Fundamentals Credential • Fortinet*
+
+Completed Fortinet cybersecurity and cloud fundamentals training covering network security, endpoint security, application and data security, access control, cloud security, and virtualization.
+
+🖼️ **[View Badge](certificates/fortinet-nse-1-certified-in-cybersecurity.png)**
 
 </details>
 
@@ -671,6 +686,11 @@ A visual archive of certifications, microcredentials, course achievements, and l
   <a href="certificates/fortinet-enterprise-firewall-7.4-administrator.pdf.pdf">
     <img src="certificates/fortinet-enterprise-firewall-7.4%20administrator-badge.png" height="85" alt="Fortinet Enterprise Firewall 7.4 Administrator">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="certificates/fortinet-nse-1-certified-in-cybersecurity.png">
+    <img src="certificates/fortinet-nse-1-certified-in-cybersecurity.png" height="85" alt="Fortinet Cybersecurity and Cloud Fundamentals">
+  </a>
 
 </p>
 
@@ -743,7 +763,7 @@ A visual archive of certifications, microcredentials, course achievements, and l
 | Category | Current |
 |-----------|---------|
 | 🚀 Enterprise Labs | **12** |
-| 🎓 Professional Credentials | **14** |
+| 🎓 Professional Credentials | **15** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
 | ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
