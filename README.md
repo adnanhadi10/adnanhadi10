@@ -26,6 +26,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="certificates/fortinet-nse-2-certified-in-cybersecurity.png">
+    <img src="certificates/fortinet-nse-2-certified-in-cybersecurity.png" height="72" alt="Fortinet NSE 2 Certified in Cybersecurity">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="certificates/fortinet-nse-1-certified-in-cybersecurity.png">
     <img src="certificates/fortinet-nse-1-certified-in-cybersecurity.png" height="72" alt="Fortinet Cybersecurity and Cloud Fundamentals">
   </a>
@@ -503,6 +508,17 @@ Demonstrated practical AWS application networking skills through configuring and
 </details>
 
 <details>
+<summary><strong>Fortinet NSE 2 Certified: Cybersecurity</strong></summary>
+
+*Cybersecurity Credential • Fortinet*
+
+Completed Fortinet NSE 2 cybersecurity training covering next-generation firewalls, firewall policies and rule evaluation, intrusion prevention systems, user authentication, web filtering, SD-WAN, and Secure Access Service Edge.
+
+🖼️ **[View Badge](certificates/fortinet-nse-2-certified-in-cybersecurity.png)**
+
+</details>
+
+<details>
 <summary><strong>Fortinet Cybersecurity and Cloud Fundamentals 1.0</strong></summary>
 
 *Cybersecurity & Cloud Fundamentals Credential • Fortinet*
@@ -549,7 +565,7 @@ Completed Fortinet cybersecurity and cloud fundamentals training covering networ
 
 *Professional Certificate • IBM / Coursera*
 
-📄 **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
+📄️ **[View Credential](certificates/ibm-cybersecurity-analyst.pdf)**
 
 </details>
 
@@ -688,6 +704,11 @@ A visual archive of certifications, microcredentials, course achievements, and l
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="certificates/fortinet-nse-2-certified-in-cybersecurity.png">
+    <img src="certificates/fortinet-nse-2-certified-in-cybersecurity.png" height="85" alt="Fortinet NSE 2 Certified in Cybersecurity">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="certificates/fortinet-nse-1-certified-in-cybersecurity.png">
     <img src="certificates/fortinet-nse-1-certified-in-cybersecurity.png" height="85" alt="Fortinet Cybersecurity and Cloud Fundamentals">
   </a>
@@ -763,7 +784,7 @@ A visual archive of certifications, microcredentials, course achievements, and l
 | Category | Current |
 |-----------|---------|
 | 🚀 Enterprise Labs | **12** |
-| 🎓 Professional Credentials | **15** |
+| 🎓 Professional Credentials | **16** |
 | ☁️ Cloud Platforms | AWS • Azure • Google Cloud Platform • Oracle Cloud Infrastructure |
 | 🛡️ Security Focus | SIEM • IAM • Threat Detection • Vulnerability Management • Cloud Security |
 | ⚙️ DevOps Journey | Docker • Docker Compose • Kubernetes • GitHub Actions • Jenkins • Terraform |
